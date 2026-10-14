@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Maç Akışı</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#1b1b1b;--mut:#6b6b6b;--line:#e4e2dc;--acc:#0b6b4f;--chip:#ecebe6;--free:#0b6b4f;--pay:#9a5b00}
+@media (prefers-color-scheme:dark){:root{--bg:#141413;--card:#1e1e1c;--ink:#ecebe6;--mut:#9a9890;--line:#2e2d2a;--acc:#4cc59a;--chip:#2a2926;--free:#4cc59a;--pay:#e0a24a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;background:var(--bg);padding:14px 16px 8px;border-bottom:1px solid var(--line);z-index:2}
+h1{font-size:19px;margin:0 0 2px}#upd{color:var(--mut);font-size:12px}
+.f{display:flex;gap:6px;overflow-x:auto;padding:8px 0 2px;scrollbar-width:none}.f::-webkit-scrollbar{display:none}
+.f button{flex:none;border:0;background:var(--chip);color:var(--ink);padding:6px 12px;border-radius:99px;font:inherit;font-size:13px;cursor:pointer}
+.f button.on{background:var(--acc);color:var(--bg)}
+select,input{font:inherit;font-size:13px;padding:6px 8px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--ink)}
+.row2{display:flex;gap:6px;margin-top:6px}.row2 input{flex:1;min-width:0}
+main{padding:8px 16px 40px;max-width:760px;margin:auto}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.05em;color:var(--mut);margin:18px 0 6px}
+.m{display:grid;grid-template-columns:52px 1fr;gap:2px 10px;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:6px}
+.t{font-weight:700;font-variant-numeric:tabular-nums;grid-row:span 2}.k{font-weight:600}
+.s{color:var(--mut);font-size:13px;display:flex;flex-wrap:wrap;gap:4px 10px}
+.free{color:var(--free)}.pay{color:var(--pay)}.empty{color:var(--mut);text-align:center;padding:40px 0}
+</style>
+</head>
+<body>
+<header>
+  <h1>Bugün hangi maç, hangi kanalda?</h1>
+  <div id="upd">Yükleniyor…</div>
+  <div class="f" id="spor"></div>
+  <div class="row2">
+    <select id="gun"></select>
+    <input id="ara" type="search" placeholder="Takım veya kanal ara">
+  </div>
+</header>
+<main id="list"></main>
+<script>
+let D=[],sp="Tümü";
+const $=id=>document.getElementById(id);
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const low=s=>s.replace(/I/g,"ı").replace(/İ/g,"i").toLowerCase();
+fetch("matches.json?"+Date.now()).then(r=>r.json()).then(j=>{
+  D=j.maclar;$("upd").textContent="Son güncelleme: "+j.guncelleme+" · "+D.length+" yayın";
+  const sporlar=["Tümü",...new Set(D.map(m=>m.spor))].sort((a,b)=>a=="Tümü"?-1:b=="Tümü"?1:a.localeCompare(b,"tr"));
+  $("spor").innerHTML=sporlar.map(s=>`<button data-s="${esc(s)}">${esc(s)}</button>`).join("");
+  $("spor").onclick=e=>{if(e.target.dataset.s){sp=e.target.dataset.s;draw()}};
+  const gunler=[...new Map(D.map(m=>[m.tarih,m.gun])).entries()];
+  $("gun").innerHTML=`<option value="">Tüm günler</option>`+gunler.map(([t,g])=>`<option value="${t}">${g} ${t.slice(8)}.${t.slice(5,7)}</option>`).join("");
+  $("gun").onchange=$("ara").oninput=draw;draw();
+}).catch(()=>$("upd").textContent="Veri henüz yok — Actions'ta ilk çalıştırmayı başlat.");
+function draw(){
+  document.querySelectorAll("#spor button").forEach(b=>b.classList.toggle("on",b.dataset.s==sp));
+  const g=$("gun").value,q=low($("ara").value.trim());
+  const L=D.filter(m=>(sp=="Tümü"||m.spor==sp)&&(!g||m.tarih==g)&&(!q||low(m.karsilasma+" "+m.kanal+" "+m.lig).includes(q)));
+  let h="",last="";
+  for(const m of L){
+    if(m.tarih!=last){last=m.tarih;h+=`<h2>${m.gun} · ${m.tarih.slice(8)}.${m.tarih.slice(5,7)}</h2>`}
+    h+=`<div class="m"><div class="t">${m.saat}</div><div class="k">${esc(m.karsilasma)}</div>
+    <div class="s"><span>${esc(m.spor)}${m.lig?" · "+esc(m.lig):""}</span><span><b>${esc(m.kanal)}</b></span>
+    <span>${esc(m.platform.join(", "))}</span><span class="${m.sifresiz?"free":"pay"}">${m.sifresiz?"Şifresiz":"Şifreli"}</span></div></div>`;
+  }
+  $("list").innerHTML=h||`<div class="empty">Bu filtrede maç yok.</div>`;
+}
+</script>
+</body>
+</html>
