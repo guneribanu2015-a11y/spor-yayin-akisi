@@ -3,7 +3,7 @@ name: Yayın akışını güncelle
 on:
   schedule:
     - cron: "0 3,15 * * *"   # Türkiye saatiyle 06:00 ve 18:00
-  workflow_dispatch:          # Actions sekmesinden elle çalıştırma
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,9 +13,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 40
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
 
@@ -25,11 +25,12 @@ jobs:
           cd /tmp/epg && npm install --no-audit --no-fund
 
       - name: Spor kanallarının akışını çek (3 gün)
-        continue-on-error: true   # bir platform düşerse diğerleri yine yazılsın
+        continue-on-error: true
         run: |
+          mkdir -p $GITHUB_WORKSPACE/guides
           cd /tmp/epg
           npm run grab --- --channels=$GITHUB_WORKSPACE/sport.channels.xml \
-            --output=$GITHUB_WORKSPACE/guides/{site}.xml --days=3 --maxConnections=3 --timeout=20000
+            --output=$GITHUB_WORKSPACE/guides/{site}.xml --days=3 --maxConnections=3 --timeout=20000 2>&1 | tee $GITHUB_WORKSPACE/guides/grab.log
 
       - name: Canlı maçları ayıkla
         run: python3 scripts/parse.py "guides/*.xml" docs/matches.json
@@ -38,6 +39,6 @@ jobs:
         run: |
           git config user.name "akis-bot"
           git config user.email "akis-bot@users.noreply.github.com"
-          git add docs/matches.json
+          git add docs/matches.json guides
           git diff --cached --quiet || git commit -m "Akış güncellendi $(TZ=Europe/Istanbul date '+%F %H:%M')"
           git push
