@@ -19,7 +19,8 @@ KURALLAR = [
     ("hentbol", "Hentbol", ""), ("ehf", "Hentbol", "EHF"),
     ("tenis", "Tenis", ""), ("atp", "Tenis", "ATP"), ("wta", "Tenis", "WTA"),
     ("formula 1", "Motor Sporları", "Formula 1"), ("f1", "Motor Sporları", "Formula 1"),
-    ("motogp", "Motor Sporları", "MotoGP"), ("nfl", "Amerikan Futbolu", "NFL"),
+    ("motogp", "Motor Sporları", "MotoGP"), ("moto gp", "Motor Sporları", "MotoGP"),
+    ("moto 2", "Motor Sporları", "MotoGP"), ("moto 3", "Motor Sporları", "MotoGP"), ("offroad", "Motor Sporları", "Offroad"), ("nfl", "Amerikan Futbolu", "NFL"),
     ("nhl", "Buz Hokeyi", "NHL"), ("snooker", "Snooker", ""), ("bisiklet", "Bisiklet", ""),
     ("süper lig", "Futbol", "Süper Lig"), ("1. lig", "Futbol", "1. Lig"),
     ("şampiyonlar ligi", "Futbol", "Şampiyonlar Ligi"), ("champions league", "Futbol", "Şampiyonlar Ligi"),
@@ -38,6 +39,19 @@ KANAL_VARSAYILAN = [("eurosport", "Tenis/Diğer"), ("bein", "Futbol"), ("s sport
 ELE = re.compile(r"tekrar|özet|ozet|ban ?arası|stüdyo|studyo|analiz|maç sonu|mac sonu|öncesi|"
                  r"onu konuşalım|magazin|haber|belgesel|\(t\)|röportaj|en iyi|golleri|hikaye", re.I)
 MAC = re.compile(r"\S.{1,40}?\s[-–—]\s\S|\svs\.?\s|canlı|canli|live", re.I)
+
+
+# Tekrar sezgisi: gece 00:00-10:59 arası başlayan yayınlar tekrar sayılır (bu sporlar hariç);
+# UEFA kulüp maçları ancak 18:00 sonrası canlıdır.
+GECE_CANLI = ("Motor Sporları", "Tenis", "Amerikan Futbolu", "Buz Hokeyi")
+GECE_LIG = ("NBA",)
+UEFA_LIG = ("Şampiyonlar Ligi", "Avrupa Ligi", "Konferans Ligi", "UEFA")
+
+
+def tekrar_mi(bas, spor, lig):
+    if bas.hour < 11 and spor not in GECE_CANLI and lig not in GECE_LIG:
+        return True
+    return lig in UEFA_LIG and bas.hour < 18
 
 
 def tr_lower(s):
@@ -88,6 +102,8 @@ def tara(root, plat, maclar):
         kanal = kanallar.get(kid, kid)
         bas = zaman(p.get("start"))
         spor, lig = siniflandir(baslik + " " + desc[:120], kanal)
+        if tekrar_mi(bas, spor, lig):
+            continue
         anahtar = (bas.isoformat(), tr_lower(re.sub(r"\W", "", kanal)), tr_lower(re.sub(r"\W", "", baslik)))
         m = maclar.setdefault(anahtar, {
             "tarih": bas.strftime("%Y-%m-%d"), "gun": GUNLER[bas.weekday()], "saat": bas.strftime("%H:%M"),

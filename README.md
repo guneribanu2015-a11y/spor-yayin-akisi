@@ -10,6 +10,6 @@ Digiturk, TV+ ve D-Smart'taki 35 spor kanalının akışını günde 2 kez (06:0
 5. Sayfa: `https://KULLANICIADIN.github.io/spor-yayin-akisi/` → telefonda ana ekrana ekle.
 
 ## Ayar
-- Kanal ekle/çıkar: `sport.channels.xml`
+- Kanal ekle/çıkar: `tvplus.channels.xml + pc.channels.xml`
 - Lig → spor kuralları ve elenen kelimeler (tekrar, özet…): `scripts/parse.py` → `KURALLAR`, `ELE`
 - Şifresiz kanallar: `parse.py` → `SIFRESIZ`
