@@ -321,7 +321,7 @@
    "spor": "Basketbol",
    "lig": "FIBA Europe Cup",
    "karsilasma": "Neftchi IK - VEF Riga",
-   "kanal": "FIBA TV",
+   "kanal": "FIBA TV, Idman TV",
    "platform": [
     "Youtube",
     "İnternet"
@@ -813,7 +813,7 @@
    "spor": "Basketbol",
    "lig": "Euroleague",
    "karsilasma": "Anadolu Efes - Bayern Münih",
-   "kanal": "S Sport Plus, S Sport 2",
+   "kanal": "S Sport Plus, S Sport 2, Idman TV",
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
@@ -1088,7 +1088,7 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Manchester City - PSG",
-   "kanal": "tabii Spor, İçtimai TV",
+   "kanal": "tabii Spor",
    "platform": [
     "Turkcell TV+",
     "İnternet"
@@ -1426,7 +1426,7 @@
    "spor": "Futbol",
    "lig": "UEFA Avrupa Konferans Ligi",
    "karsilasma": "KuPS - Trabzonspor",
-   "kanal": "TRT 1, İçtimai TV",
+   "kanal": "TRT 1",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -1507,7 +1507,7 @@
    "spor": "Basketbol",
    "lig": "Euroleague",
    "karsilasma": "Fenerbahçe Tarfin - Partizan",
-   "kanal": "S Sport Plus, S Sport",
+   "kanal": "S Sport Plus, S Sport, Idman TV",
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
@@ -1746,6 +1746,17 @@
   {
    "tarih": "2026-10-16",
    "gun": "Cuma",
+   "saat": "18:00",
+   "spor": "Futbol",
+   "lig": "Azerbaycan Premier Ligi",
+   "karsilasma": "Sumqayıt - Araz",
+   "kanal": "Idman TV",
+   "platform": [],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
    "saat": "19:00",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -1900,7 +1911,7 @@
    "spor": "Futbol",
    "lig": "Almanya Bundesliga",
    "karsilasma": "Eintracht Frankfurt - Köln",
-   "kanal": "S Sport Plus",
+   "kanal": "S Sport Plus, Idman TV",
    "platform": [
     "İnternet"
    ],
@@ -2322,7 +2333,7 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Everton - Chelsea",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Connect, Idman TV",
    "platform": [
     "İnternet"
    ],
@@ -2717,7 +2728,7 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Brentford - Liverpool",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Connect, Idman TV",
    "platform": [
     "İnternet"
    ],
@@ -3042,8 +3053,9 @@
    "spor": "Futbol",
    "lig": "Almanya Bundesliga",
    "karsilasma": "Bayern Münih - Leipzig",
-   "kanal": "S Sport Plus",
+   "kanal": "Idman TV Youtube, S Sport Plus",
    "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": false
@@ -3055,7 +3067,7 @@
    "spor": "Futbol",
    "lig": "İspanya La Liga",
    "karsilasma": "Real Betis - Barcelona",
-   "kanal": "S Sport Plus, S Sport",
+   "kanal": "S Sport Plus, S Sport, Idman TV",
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
@@ -3176,7 +3188,7 @@
    "spor": "Futbol",
    "lig": "İspanya La Liga",
    "karsilasma": "Valencia - Athletic Bilbao",
-   "kanal": "S Sport Plus, S Sport",
+   "kanal": "S Sport Plus, S Sport, Idman TV",
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
