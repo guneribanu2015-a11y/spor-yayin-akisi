@@ -9,7 +9,7 @@ ANAHTAR = {"app_id": "vunsbpYk", "api_key": "LltEnsF0MViM001z71NBVrZ4J8KmLqU5Ho5
 GUN_SAYISI = 7
 
 # Türkiye'den izlenmeyen kanal/platformlar listeden çıkarılır
-YABANCI_KANAL = ("idman", "cbc sport", "ictimai", "yayın yok")
+YABANCI_KANAL = ("idman", "cbc sport", "ictimai", "içtimai", "yayın yok")
 YABANCI_PLATFORM = ("Azerspace",)
 ACIK_KANAL = ("trt", "a spor", "ht spor", "tv8", "tv 8", "atv", "fb tv", "gs tv", "bjk tv", "ts tv", "tivibu spor", "euroleague tv", "tbf", "tvf", "thf", "fiba")
 SPOR_ADI = {"Motosiklet": "Motor Sporları", "Otomobil Yarışı": "Motor Sporları", "Formula 1": "Motor Sporları"}
@@ -34,7 +34,7 @@ def donustur(e):
     kanallar, platformlar, sifresiz = [], [], False
     for c in e.get("channels") or []:
         ad = (c.get("name") or "").strip()
-        if not ad or any(y in ad.lower() for y in YABANCI_KANAL):
+        if not ad or any(y in ad.replace("İ", "i").replace("I", "ı").lower() for y in YABANCI_KANAL):
             continue
         ad = ad.replace("Bein Sports beIN Connect", "beIN Connect").replace("Bein Sports", "beIN Sports")
         if ad not in kanallar:
