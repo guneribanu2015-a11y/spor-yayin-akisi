@@ -1,1 +1,161 @@
-{"guncelleme":"—","maclar":[]}
+{
+ "guncelleme": "2026-10-14 14:37",
+ "maclar": [
+  {
+   "tarih": "2026-10-14",
+   "gun": "Çarşamba",
+   "saat": "14:05",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Sabah - Slavia Prag",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-14",
+   "gun": "Çarşamba",
+   "saat": "16:15",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Arsenal - Lille",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-14",
+   "gun": "Çarşamba",
+   "saat": "17:55",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Galatasaray - Barcelona",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-14",
+   "gun": "Çarşamba",
+   "saat": "19:45",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Lask - Liverpool",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-14",
+   "gun": "Çarşamba",
+   "saat": "22:00",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Manchester City - PSG",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "09:55",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Galatasaray - Barcelona",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "12:25",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Inter - Club Brugge",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "14:30",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Viking - Bayern Münih",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "20:45",
+   "spor": "Basketbol",
+   "lig": "EuroLeague",
+   "karsilasma": "Fenerbahçe Tarfin - Partizan",
+   "kanal": "S SPORT",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "21:00",
+   "spor": "Diğer",
+   "lig": "",
+   "karsilasma": "Al Ahli - Al Nassr",
+   "kanal": "HT SPOR",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "23:30",
+   "spor": "Basketbol",
+   "lig": "EuroLeague",
+   "karsilasma": "Olimpia Milano - Dubai Basket",
+   "kanal": "S SPORT",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
+   "saat": "04:00",
+   "spor": "Diğer",
+   "lig": "",
+   "karsilasma": "Al Ahli - Al Nassr",
+   "kanal": "HT SPOR",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  }
+ ]
+}
