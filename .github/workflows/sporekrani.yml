@@ -3,7 +3,7 @@ name: Sporekrani ham veri
 on:
   push:
     paths: [".github/workflows/sporekrani.yml"]
-  # v4
+  # v5
   workflow_dispatch:
 
 permissions:
@@ -27,7 +27,8 @@ jobs:
           done
           d=$(TZ=Europe/Istanbul date -d "+3 day" +%F)
           curl -sS -D raw/hdr2.txt -o raw/bust.html -A "Mozilla/5.0" -H "Cache-Control: no-cache" "https://www.sporekrani.com/home/day/$d?nc=$RANDOM$RANDOM" || true
-          for f in useAds-Bk0lbxF7 common-B8JbnO7M; do curl -sSL -o raw/$f.js "https://www.sporekrani.com/assets/$f.js" || true; done
+          for f in constants-ByS_cEnj; do curl -sSL -o raw/$f.js "https://www.sporekrani.com/assets/$f.js" || true; done
+          for ep in events events/list; do curl -sS -o "raw/api-${ep//\//_}.json" -w "$ep %{http_code}\n" "https://api.sporekrani.com/v4.1/$ep?day=$d&app_id=vunsbpYk&api_key=LltEnsF0MViM001z71NBVrZ4J8KmLqU5Ho5Mkew1" || true; done
           ls -la raw
       - name: Kaydet
         run: |
