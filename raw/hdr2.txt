@@ -1,16 +1,16 @@
 HTTP/2 200 
-date: Wed, 14 Oct 2026 13:13:11 GMT
+date: Wed, 14 Oct 2026 13:13:58 GMT
 content-type: text/html; charset=utf-8
 cache-control: private, no-cache
 strict-transport-security: max-age=31536000; includeSubDomains; preload
-cf-placement: remote-FRA
+cf-placement: local-MEM
 referrer-policy: strict-origin-when-cross-origin
 x-content-type-options: nosniff
 x-edge-cache: MISS
 x-frame-options: SAMEORIGIN
-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kjI8iMAryzozP11udR47jmDW3AinodsfjYV6sxg7CfrmlsRGeWL7D0VG64sTQzHXiOSkwuMHcG%2B1ZVc2c6W8aFiF8RFYDmLW7CZh6QMT8FsibBFkSM80k29ndP60Qytj8dwXuMs%3D"}]}
+report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=VTcWDroyWzoD5ycYKsRXGxnqHkMgHn07MjqmiJXU5M2qZtJiSSMNkedljOfNRoSej5n04ionisnTe0qs3lAjSqxelAeWeihweFZtojhCEzctcmJ8TbXPoafVw9TuSAXvJAyls4I%3D"}]}
 nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
 server: cloudflare
-cf-ray: a4a6d7024b314d21-SJC
+cf-ray: a4a6d82aba20136c-MEM
 alt-svc: h3=":443"; ma=86400
 
