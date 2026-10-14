@@ -3,6 +3,7 @@ name: Sporekrani ham veri
 on:
   push:
     paths: [".github/workflows/sporekrani.yml"]
+  # v2
   workflow_dispatch:
 
 permissions:
@@ -24,6 +25,11 @@ jobs:
             d=$(TZ=Europe/Istanbul date -d "+$i day" +%F)
             curl -sSL -A "Mozilla/5.0" -o raw/$d.html -w "$d %{http_code} %{size_download}\n" "https://www.sporekrani.com/home/day/$d" || true
           done
+          d=$(TZ=Europe/Istanbul date -d "+3 day" +%F)
+          curl -sS -D raw/hdr.txt -o raw/nofollow.html -A "Mozilla/5.0" "https://www.sporekrani.com/home/day/$d" || true
+          curl -sSL -o raw/index.js "https://www.sporekrani.com/assets/index-BYyE6ceV.js" || true
+          curl -sSL -o raw/index2.js "https://www.sporekrani.com/assets/index-BMBAvLfp.js" || true
+          curl -sSL -o raw/datepicker.js "https://www.sporekrani.com/assets/DatePicker-DVGxC4yY.js" || true
           ls -la raw
       - name: Kaydet
         run: |
