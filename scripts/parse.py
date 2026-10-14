@@ -28,10 +28,12 @@ KURALLAR = [
     ("laliga", "Futbol", "LaLiga"), ("la liga", "Futbol", "LaLiga"), ("serie a", "Futbol", "Serie A"),
     ("bundesliga", "Futbol", "Bundesliga"), ("ligue 1", "Futbol", "Ligue 1"),
     ("türkiye kupası", "Futbol", "Türkiye Kupası"), ("ziraat", "Futbol", "Türkiye Kupası"),
+    ("roshn", "Futbol", "Suudi Pro Lig"), ("suudi", "Futbol", "Suudi Pro Lig"),
     ("uefa", "Futbol", "UEFA"), ("fifa", "Futbol", "FIFA"), ("futbol", "Futbol", ""),
 ]
 # Kanal bazlı varsayılan (başlıkta lig yoksa)
-KANAL_VARSAYILAN = [("eurosport", "Tenis/Diğer"), ("bein", "Futbol"), ("s sport", "Basketbol")]
+KANAL_VARSAYILAN = [("eurosport", "Tenis/Diğer"), ("bein", "Futbol"), ("s sport", "Basketbol"),
+                    ("ht spor", "Futbol"), ("tabii", "Futbol"), ("a spor", "Futbol")]
 
 ELE = re.compile(r"tekrar|özet|ozet|ban ?arası|stüdyo|studyo|analiz|maç sonu|mac sonu|öncesi|"
                  r"onu konuşalım|magazin|haber|belgesel|\(t\)|röportaj|en iyi|golleri|hikaye", re.I)
@@ -79,14 +81,13 @@ def tara(root, plat, maclar):
     kanallar = {c.get("id"): (c.findtext("display-name") or c.get("id")) for c in root.iter("channel")}
     for p in root.iter("programme"):
         baslik = (p.findtext("title") or "").strip()
-        if not baslik or ELE.search(baslik) or not MAC.search(baslik):
+        desc = (p.findtext("desc") or "")
+        if not baslik or ELE.search(baslik) or not MAC.search(baslik) or re.search(r"tekrar|özet", desc[:80], re.I):
             continue
         kid = p.get("channel")
         kanal = kanallar.get(kid, kid)
         bas = zaman(p.get("start"))
-        if bas < datetime.now(TR) - timedelta(hours=3):
-            continue
-        spor, lig = siniflandir(baslik + " " + (p.findtext("desc") or "")[:120], kanal)
+        spor, lig = siniflandir(baslik + " " + desc[:120], kanal)
         anahtar = (bas.isoformat(), tr_lower(re.sub(r"\W", "", kanal)), tr_lower(re.sub(r"\W", "", baslik)))
         m = maclar.setdefault(anahtar, {
             "tarih": bas.strftime("%Y-%m-%d"), "gun": GUNLER[bas.weekday()], "saat": bas.strftime("%H:%M"),
@@ -97,7 +98,17 @@ def tara(root, plat, maclar):
 
 
 def yaz(maclar, out):
-    liste = sorted(maclar.values(), key=lambda m: (m["tarih"], m["saat"], m["spor"]))
+    # Tekrar yayınları ele: aynı karşılaşmanın sadece ilk yayın(lar)ı kalır (1 saatten sonraki tekrarlar atılır)
+    ilk, liste = {}, []
+    for m in sorted(maclar.values(), key=lambda m: (m["tarih"], m["saat"])):
+        k = tr_lower(re.sub(r"\W", "", m["karsilasma"]))
+        t = datetime.fromisoformat(f'{m["tarih"]}T{m["saat"]}')
+        if k in ilk and t - ilk[k] > timedelta(hours=1):
+            continue
+        ilk.setdefault(k, t)
+        if t.replace(tzinfo=TR) >= datetime.now(TR) - timedelta(hours=3):
+            liste.append(m)
+    liste.sort(key=lambda m: (m["tarih"], m["saat"], m["spor"]))
     json.dump({"guncelleme": datetime.now(TR).strftime("%Y-%m-%d %H:%M"), "maclar": liste},
               open(out, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print(f"{len(liste)} maç yazıldı -> {out}")
