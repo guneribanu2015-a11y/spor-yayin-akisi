@@ -1,14 +1,14 @@
 {
- "guncelleme": "2026-10-14 14:37",
+ "guncelleme": "2026-10-14 14:45",
  "maclar": [
   {
    "tarih": "2026-10-14",
    "gun": "Çarşamba",
-   "saat": "14:05",
-   "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Sabah - Slavia Prag",
-   "kanal": "tabii spor",
+   "saat": "13:55",
+   "spor": "Hentbol",
+   "lig": "",
+   "karsilasma": "Beşiktaş J.K. - İstanbul G.",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -17,11 +17,11 @@
   {
    "tarih": "2026-10-14",
    "gun": "Çarşamba",
-   "saat": "16:15",
-   "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Arsenal - Lille",
-   "kanal": "tabii spor",
+   "saat": "15:55",
+   "spor": "Voleybol",
+   "lig": "Sultanlar Ligi",
+   "karsilasma": "Aras Kargo - Galatasaray",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -30,11 +30,11 @@
   {
    "tarih": "2026-10-14",
    "gun": "Çarşamba",
-   "saat": "17:55",
+   "saat": "17:00",
    "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Galatasaray - Barcelona",
-   "kanal": "tabii spor",
+   "lig": "1. Lig",
+   "karsilasma": "Ümraniyespor - Boluspor",
+   "kanal": "TRT SPOR",
    "platform": [
     "TV+"
    ],
@@ -43,11 +43,11 @@
   {
    "tarih": "2026-10-14",
    "gun": "Çarşamba",
-   "saat": "19:45",
-   "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Lask - Liverpool",
-   "kanal": "tabii spor",
+   "saat": "19:55",
+   "spor": "Basketbol",
+   "lig": "EuroCup",
+   "karsilasma": "Tofaş - Buducnost Voli P.",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -56,11 +56,11 @@
   {
    "tarih": "2026-10-14",
    "gun": "Çarşamba",
-   "saat": "22:00",
-   "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Manchester City - PSG",
-   "kanal": "tabii spor",
+   "saat": "21:55",
+   "spor": "Basketbol",
+   "lig": "EuroCup",
+   "karsilasma": "Umana Reyer V. - Türk Telekom",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -69,11 +69,11 @@
   {
    "tarih": "2026-10-15",
    "gun": "Perşembe",
-   "saat": "09:55",
-   "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Galatasaray - Barcelona",
-   "kanal": "tabii spor",
+   "saat": "00:45",
+   "spor": "Voleybol",
+   "lig": "",
+   "karsilasma": "Ziraat B. - Galatasaray",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -82,11 +82,37 @@
   {
    "tarih": "2026-10-15",
    "gun": "Perşembe",
-   "saat": "12:25",
+   "saat": "02:00",
    "spor": "Futbol",
-   "lig": "Şampiyonlar Ligi",
-   "karsilasma": "Inter - Club Brugge",
-   "kanal": "tabii spor",
+   "lig": "",
+   "karsilasma": "Al Nassr - Diriyah",
+   "kanal": "HT SPOR",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "05:00",
+   "spor": "Futbol",
+   "lig": "",
+   "karsilasma": "Al Hilal - Al İttihad",
+   "kanal": "HT SPOR",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "10:15",
+   "spor": "Diğer",
+   "lig": "",
+   "karsilasma": "Petlas Türkiye Offroad Ş. - Samsun",
+   "kanal": "TRT SPOR YILDIZ",
    "platform": [
     "TV+"
    ],
@@ -108,24 +134,11 @@
   {
    "tarih": "2026-10-15",
    "gun": "Perşembe",
-   "saat": "20:45",
-   "spor": "Basketbol",
-   "lig": "EuroLeague",
-   "karsilasma": "Fenerbahçe Tarfin - Partizan",
-   "kanal": "S SPORT",
-   "platform": [
-    "TV+"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-15",
-   "gun": "Perşembe",
-   "saat": "21:00",
-   "spor": "Diğer",
-   "lig": "",
-   "karsilasma": "Al Ahli - Al Nassr",
-   "kanal": "HT SPOR",
+   "saat": "16:10",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Villareal - Napoli",
+   "kanal": "tabii spor",
    "platform": [
     "TV+"
    ],
@@ -134,11 +147,50 @@
   {
    "tarih": "2026-10-15",
    "gun": "Perşembe",
-   "saat": "23:30",
+   "saat": "17:55",
+   "spor": "Futbol",
+   "lig": "Şampiyonlar Ligi",
+   "karsilasma": "Aston Villa - Fenerbahçe",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "19:45",
+   "spor": "Futbol",
+   "lig": "",
+   "karsilasma": "Lyon - Crystal Palace",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-15",
+   "gun": "Perşembe",
+   "saat": "22:00",
+   "spor": "Futbol",
+   "lig": "",
+   "karsilasma": "Celta Vigo - Juventus",
+   "kanal": "tabii spor",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
+   "saat": "20:00",
    "spor": "Basketbol",
    "lig": "EuroLeague",
-   "karsilasma": "Olimpia Milano - Dubai Basket",
-   "kanal": "S SPORT",
+   "karsilasma": "Zalgiris Kaunas - Anadolu Efes",
+   "kanal": "S SPORT 2",
    "platform": [
     "TV+"
    ],
@@ -147,15 +199,67 @@
   {
    "tarih": "2026-10-16",
    "gun": "Cuma",
-   "saat": "04:00",
-   "spor": "Diğer",
+   "saat": "21:00",
+   "spor": "Futbol",
    "lig": "",
-   "karsilasma": "Al Ahli - Al Nassr",
+   "karsilasma": "Al Ittihad - Al Shabab",
    "kanal": "HT SPOR",
    "platform": [
     "TV+"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
+   "saat": "22:00",
+   "spor": "Futbol",
+   "lig": "LaLiga",
+   "karsilasma": "Deportivo - Levante",
+   "kanal": "S SPORT 2",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "00:00",
+   "spor": "Basketbol",
+   "lig": "EuroLeague",
+   "karsilasma": "Panathinaikos - Hapoel Tel Aviv",
+   "kanal": "S SPORT 2",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "02:00",
+   "spor": "Futbol",
+   "lig": "Serie A",
+   "karsilasma": "Frosinone - Sassuolo",
+   "kanal": "S SPORT 2",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "11:00",
+   "spor": "Basketbol",
+   "lig": "",
+   "karsilasma": "Moto GP - Moto 3",
+   "kanal": "S SPORT 2",
+   "platform": [
+    "TV+"
+   ],
+   "sifresiz": false
   }
  ]
 }
