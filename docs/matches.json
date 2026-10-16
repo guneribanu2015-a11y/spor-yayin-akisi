@@ -1,84 +1,20 @@
 {
- "guncelleme": "2026-10-16 11:02",
+ "guncelleme": "2026-10-16 16:53",
  "kaynak": "sporekrani.com",
  "maclar": [
   {
    "tarih": "2026-10-16",
    "gun": "Cuma",
-   "saat": "09:30",
-   "spor": "Tenis",
-   "lig": "ATP Shanghai",
-   "karsilasma": "R.Jodar - C.Ruud",
-   "kanal": "S Sport Plus",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Egospor - Kağıtspor",
+   "kanal": "TBF TV Youtube",
    "platform": [
+    "Youtube",
     "İnternet"
    ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-16",
-   "gun": "Cuma",
-   "saat": "10:00",
-   "spor": "Padel",
-   "lig": "Premier Padel",
-   "karsilasma": "Senesi/Pons - Postiguillo/Barrera",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-16",
-   "gun": "Cuma",
-   "saat": "12:00",
-   "spor": "Padel",
-   "lig": "Premier Padel",
-   "karsilasma": "Bengoechea/Ulrich - Prieto/Fallada",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-16",
-   "gun": "Cuma",
-   "saat": "13:00",
-   "spor": "Tenis",
-   "lig": "ATP Shanghai",
-   "karsilasma": "D.Medvedev - T.Paul",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-16",
-   "gun": "Cuma",
-   "saat": "14:00",
-   "spor": "Padel",
-   "lig": "Premier Padel",
-   "karsilasma": "Coello/Tapia - Leal/Guerrero",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-16",
-   "gun": "Cuma",
-   "saat": "14:00",
-   "spor": "Tenis",
-   "lig": "WTA Wuhan",
-   "karsilasma": "A.Li - I.Swiatek",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
+   "sifresiz": true
   },
   {
    "tarih": "2026-10-16",
@@ -88,6 +24,34 @@
    "lig": "TVF Kadinlar 2. Lig",
    "karsilasma": "Dinamo Spor - Kamarin Spor",
    "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
+   "saat": "18:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Kerasusspor - Petkimspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
+   "saat": "18:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Teşvikiye - Türk Telekom Gelişim",
+   "kanal": "TBF TV Youtube",
    "platform": [
     "Youtube",
     "İnternet"
@@ -221,6 +185,19 @@
   {
    "tarih": "2026-10-16",
    "gun": "Cuma",
+   "saat": "21:00",
+   "spor": "Padel",
+   "lig": "Premier Padel",
+   "karsilasma": "Alfonso/Libaak - Chingotto/Galan",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-16",
+   "gun": "Cuma",
    "saat": "21:15",
    "spor": "Basketbol",
    "lig": "Euroleague",
@@ -237,7 +214,7 @@
    "saat": "21:30",
    "spor": "Basketbol",
    "lig": "Euroleague",
-   "karsilasma": "Virtus Bologna - Baskonia",
+   "karsilasma": "Barcelona - Olympiakos",
    "kanal": "S Sport Plus",
    "platform": [
     "İnternet"
@@ -250,7 +227,7 @@
    "saat": "21:30",
    "spor": "Basketbol",
    "lig": "Euroleague",
-   "karsilasma": "Barcelona - Olympiakos",
+   "karsilasma": "Virtus Bologna - Baskonia",
    "kanal": "S Sport Plus",
    "platform": [
     "İnternet"
@@ -394,6 +371,20 @@
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
+   "saat": "02:00",
+   "spor": "Futbol",
+   "lig": "Brezilya Serie A",
+   "karsilasma": "Mirassol - Internacional",
+   "kanal": "Smart Spor 2, Spor Smart 2",
+   "platform": [
+    "D Smart",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
    "saat": "03:00",
    "spor": "Basketbol",
    "lig": "NBA Preseason",
@@ -452,6 +443,20 @@
    "karsilasma": "SA Spurs - Sacramento Kings",
    "kanal": "Prime Video",
    "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "03:30",
+   "spor": "Futbol",
+   "lig": "Arjantin Primera Division",
+   "karsilasma": "Boca Juniors - Talleres Cordoba",
+   "kanal": "Spor Smart, Smart Spor HD",
+   "platform": [
+    "D Smart",
     "İnternet"
    ],
    "sifresiz": false
@@ -526,6 +531,48 @@
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Bahçeşehir Klj - Tofaş",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Bursaspor - Körfez Basket",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Trabzonspor - Beşiktaş",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
    "saat": "13:00",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -543,36 +590,8 @@
    "gun": "Cumartesi",
    "saat": "13:00",
    "spor": "Voleybol",
-   "lig": "TVF Erkekler 2. Lig",
-   "karsilasma": "Maliye Voleybol - ÜRGÜP SPOR",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:00",
-   "spor": "Voleybol",
    "lig": "TVF Kadinlar 1. Lig",
    "karsilasma": "Zeren Spor - Manavgat Bld.",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 1. Lig",
-   "karsilasma": "PTT - Sigorta Shop",
    "kanal": "TVF Voleybol TV Youtube",
    "platform": [
     "Youtube",
@@ -658,6 +677,20 @@
    "gun": "Cumartesi",
    "saat": "14:00",
    "spor": "Futbol",
+   "lig": "Suwen Kadinlar Futbol Ligi",
+   "karsilasma": "Antalyaspor - Galatasaray",
+   "kanal": "TFF Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "14:00",
+   "spor": "Futbol",
    "lig": "TFF 2. Lig",
    "karsilasma": "1461 Trabzon - İnegölspor",
    "kanal": "Tivibu Spor 1",
@@ -729,6 +762,20 @@
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
+   "saat": "14:00",
+   "spor": "Voleybol",
+   "lig": "TVF Efeler Ligi",
+   "karsilasma": "Sultanbeyli Bld. - Alanya Bld.",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
    "saat": "14:30",
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
@@ -752,6 +799,48 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Çayırova Bld. - Bandırma Bordo",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Fenerbahçe Tarfin - Karşıyaka",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Esenler Erokspor - Denizli Basket",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-10-17",
@@ -1024,20 +1113,6 @@
    "saat": "16:00",
    "spor": "Voleybol",
    "lig": "TVF Efeler Ligi",
-   "karsilasma": "Sultanbeyli Bld. - Alanya Bld.",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "16:00",
-   "spor": "Voleybol",
-   "lig": "TVF Efeler Ligi",
    "karsilasma": "TFL Altekma - Spor Toto SK",
    "kanal": "TVF Voleybol TV Youtube",
    "platform": [
@@ -1125,6 +1200,48 @@
    "lig": "TVF Erkekler 2. Lig",
    "karsilasma": "Fenerbahçe Medicana - İstanbul Voleybol",
    "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "17:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Titan Akademi - İstanbul BB",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "17:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Manisa BB - Kütahya Bld.",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "17:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol 2. Ligi",
+   "karsilasma": "Karatay Bld. - Çorlu Bld.",
+   "kanal": "TBF TV Youtube",
    "platform": [
     "Youtube",
     "İnternet"
@@ -1232,6 +1349,34 @@
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Türk Telekom - Petkimspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Anadolu Efes - Galatasaray",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
    "saat": "18:00",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -1309,6 +1454,20 @@
    "kanal": "beIN Sports 4",
    "platform": [
     "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "19:00",
+   "spor": "Basketbol",
+   "lig": "İspanya Basketbol Ligi",
+   "karsilasma": "Manresa - Unicaja Malaga",
+   "kanal": "Spor Smart, Smart Spor HD",
+   "platform": [
+    "D Smart",
     "İnternet"
    ],
    "sifresiz": false
@@ -1462,20 +1621,6 @@
    "gun": "Cumartesi",
    "saat": "19:00",
    "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Kavak Spor - Ankara DSİ",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "19:00",
-   "spor": "Voleybol",
    "lig": "TVF Kadinlar 1. Lig",
    "karsilasma": "İzmir DSİ - İstanbul BB",
    "kanal": "TVF Voleybol TV Youtube",
@@ -1615,6 +1760,19 @@
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
+   "saat": "20:30",
+   "spor": "Futbol",
+   "lig": "Avusturya Bundesliga",
+   "karsilasma": "SV Ried - Austria Vienna",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
    "saat": "21:00",
    "spor": "Futbol",
    "lig": "Hollanda Eredivisie",
@@ -1691,6 +1849,20 @@
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "22:00",
+   "spor": "Basketbol",
+   "lig": "İspanya Basketbol Ligi",
+   "karsilasma": "SP Burgos - Obradoiro CAB",
+   "kanal": "Spor Smart, Smart Spor HD",
+   "platform": [
+    "D Smart",
     "İnternet"
    ],
    "sifresiz": false
@@ -2026,6 +2198,48 @@
   {
    "tarih": "2026-10-18",
    "gun": "Pazar",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Körfez Basket - Çayırova Bld.",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Karşıyaka - Türk Telekom",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Denizli Basket - Trabzonspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
    "saat": "13:00",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -2175,6 +2389,20 @@
    "tarih": "2026-10-18",
    "gun": "Pazar",
    "saat": "14:00",
+   "spor": "Futbol",
+   "lig": "Suwen Kadinlar Futbol Ligi",
+   "karsilasma": "Beşiktaş - Kayserispor",
+   "kanal": "TFF Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "14:00",
    "spor": "Voleybol",
    "lig": "TVF Kadinlar 2. Lig",
    "karsilasma": "Anadolu Marmara - Kuzey Yıldızları",
@@ -2236,6 +2464,48 @@
    "kanal": "Tivibu Spor 3",
    "platform": [
     "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Beşiktaş - Esenler Erokspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Tofaş - Anadolu Efes",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Bandırma Bordo - Bursaspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": true
@@ -2314,6 +2584,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "Avusturya Bundesliga",
+   "karsilasma": "Salzburg - Altach",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-10-18",
@@ -2648,6 +2931,34 @@
   {
    "tarih": "2026-10-18",
    "gun": "Pazar",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Petkimspor - Fenerbahçe Tarfin",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Galatasaray - Bahçeşehir Klj",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
    "saat": "17:45",
    "spor": "Futbol",
    "lig": "Hollanda Eredivisie",
@@ -2668,6 +2979,19 @@
    "kanal": "TBF TV Youtube",
    "platform": [
     "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Futbol",
+   "lig": "Avusturya Bundesliga",
+   "karsilasma": "Sturm Graz - Grazer",
+   "kanal": "Sıfır TV",
+   "platform": [
     "İnternet"
    ],
    "sifresiz": true
@@ -3059,16 +3383,72 @@
   {
    "tarih": "2026-10-19",
    "gun": "Pazartesi",
-   "saat": "17:00",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Karagümrük - Keçiörengücü",
-   "kanal": "tabii Spor 6, beIN Sports 2",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Çayırova Bld. - Denizli Basket",
+   "kanal": "TBF TV Youtube",
    "platform": [
-    "Digiturk",
+    "Youtube",
     "İnternet"
    ],
-   "sifresiz": false
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "12:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Trabzonspor - Körfez Basket",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Bahçeşehir Klj - Karşıyaka",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Türk Telekom - Galatasaray",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "15:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Esenler Erokspor - Bandırma Bordo",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-10-19",
@@ -3084,6 +3464,62 @@
     "Kablo TV",
     "Tivibu",
     "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Karagümrük - Keçiörengücü",
+   "kanal": "tabii Spor 6, beIN Sports 2",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Anadolu Efes - Petkimspor",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Fenerbahçe Tarfin - Tofaş",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "17:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Gençler Ligi",
+   "karsilasma": "Bursaspor - Beşiktaş",
+   "kanal": "TBF TV Youtube",
+   "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": true
@@ -3183,6 +3619,20 @@
    "saat": "20:00",
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
+   "karsilasma": "Esenler Erokspor - Mardin 1969",
+   "kanal": "tabii Spor 6, beIN Sports Max 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-19",
+   "gun": "Pazartesi",
+   "saat": "20:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
    "karsilasma": "Bursaspor - Pendikspor",
    "kanal": "TRT Spor, beIN Sports 2",
    "platform": [
@@ -3194,20 +3644,6 @@
     "İnternet"
    ],
    "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-19",
-   "gun": "Pazartesi",
-   "saat": "20:00",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Esenler Erokspor - Mardin 1969",
-   "kanal": "tabii Spor 6, beIN Sports Max 1",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
   },
   {
    "tarih": "2026-10-19",
@@ -3322,12 +3758,40 @@
   {
    "tarih": "2026-10-20",
    "gun": "Salı",
+   "saat": "16:00",
+   "spor": "Voleybol",
+   "lig": "TVF Kadinlar 1. Lig",
+   "karsilasma": "İlbank - Karayollari",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-20",
+   "gun": "Salı",
    "saat": "17:00",
    "spor": "Futbol",
    "lig": "UEFA Gençlik Ligi",
    "karsilasma": "Manchester City - AEK Athens",
    "kanal": "UEFA.tv",
    "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-20",
+   "gun": "Salı",
+   "saat": "19:00",
+   "spor": "Basketbol",
+   "lig": "FIBA Şampiyonlar Ligi",
+   "karsilasma": "Falco Szombathely - Salon Vilpas",
+   "kanal": "FIBA Şampiyonlar Ligi Youtube",
+   "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": true
@@ -3350,10 +3814,38 @@
    "tarih": "2026-10-20",
    "gun": "Salı",
    "saat": "19:00",
-   "spor": "Basketbol",
-   "lig": "FIBA Şampiyonlar Ligi",
-   "karsilasma": "Falco Szombathely - Salon Vilpas",
-   "kanal": "FIBA Şampiyonlar Ligi Youtube",
+   "spor": "Voleybol",
+   "lig": "TVF Kadinlar 1. Lig",
+   "karsilasma": "Altınordu - Akhisar Bel",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-20",
+   "gun": "Salı",
+   "saat": "19:00",
+   "spor": "Voleybol",
+   "lig": "TVF Kadinlar 1. Lig",
+   "karsilasma": "Ankara BB - PTT",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-20",
+   "gun": "Salı",
+   "saat": "19:00",
+   "spor": "Voleybol",
+   "lig": "TVF Kadinlar 1. Lig",
+   "karsilasma": "Fenerbahçe Medicana - Eczacibasi",
+   "kanal": "TVF Voleybol TV Youtube",
    "platform": [
     "Youtube",
     "İnternet"
