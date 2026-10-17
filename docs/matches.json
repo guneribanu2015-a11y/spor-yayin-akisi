@@ -1,173 +1,7 @@
 {
- "guncelleme": "2026-10-17 10:40",
+ "guncelleme": "2026-10-17 15:52",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "10:30",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Başkent Arma - İlbank",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "11:00",
-   "spor": "Voleybol",
-   "lig": "TVF Erkekler 2. Lig",
-   "karsilasma": "Başkent Beşiktaşlılar - Ankara Barosu",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "11:30",
-   "spor": "Basketbol",
-   "lig": "Avustralya NBL",
-   "karsilasma": "Sydney Kings - Perth Wildcats",
-   "kanal": "Euroleague TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "11:30",
-   "spor": "Tenis",
-   "lig": "ATP Shanghai",
-   "karsilasma": "A.Zverev - A.D.Fokina",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "12:00",
-   "spor": "Tenis",
-   "lig": "WTA Wuhan",
-   "karsilasma": "Sonay Kartal - J.Ostapenko",
-   "kanal": "beIN Sports Max 2",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "12:30",
-   "spor": "Basketbol",
-   "lig": "Basketbol Gençler Ligi",
-   "karsilasma": "Bahçeşehir Klj - Tofaş",
-   "kanal": "TBF TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "12:30",
-   "spor": "Basketbol",
-   "lig": "Basketbol Gençler Ligi",
-   "karsilasma": "Bursaspor - Körfez Basket",
-   "kanal": "TBF TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "12:30",
-   "spor": "Basketbol",
-   "lig": "Basketbol Gençler Ligi",
-   "karsilasma": "Trabzonspor - Beşiktaş",
-   "kanal": "TBF TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:00",
-   "spor": "Basketbol",
-   "lig": "Basketbol Süper Ligi",
-   "karsilasma": "Bandırma Bordo - Türk Telekom",
-   "kanal": "beIN Sports 5, beIN Sports Haber",
-   "platform": [
-    "Digiturk",
-    "Kablo TV",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 1. Lig",
-   "karsilasma": "Zeren Spor - Manavgat Bld.",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:30",
-   "spor": "Futbol",
-   "lig": "Trendyol Süper Lig",
-   "karsilasma": "Erzurumspor - Eyüpspor",
-   "kanal": "beIN Sports 2",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-17",
-   "gun": "Cumartesi",
-   "saat": "13:30",
-   "spor": "Tenis",
-   "lig": "WTA Wuhan",
-   "karsilasma": "I.Swiatek - M.Chwalinska",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
   {
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
@@ -268,6 +102,20 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "14:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Kahramanmaraş İstiklal - Serik Bld.",
+   "kanal": "Kahramanmaraş İstiklal Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-10-17",
@@ -1244,6 +1092,20 @@
    "tarih": "2026-10-17",
    "gun": "Cumartesi",
    "saat": "19:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Muşspor - Ankaraspor",
+   "kanal": "Muş Spor Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-17",
+   "gun": "Cumartesi",
+   "saat": "19:00",
    "spor": "Hentbol",
    "lig": "Hentbol Erkekler EHF Avrupa Kupasi",
    "karsilasma": "Ostrow Wielkopolski - İstanbul Gençlik",
@@ -1612,6 +1474,20 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-18",
+   "gun": "Pazar",
+   "saat": "01:30",
+   "spor": "Futbol",
+   "lig": "Brezilya Serie A",
+   "karsilasma": "Atletico PR - Palmeiras",
+   "kanal": "Spor Smart, Smart Spor HD",
+   "platform": [
+    "D Smart",
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-10-18",
