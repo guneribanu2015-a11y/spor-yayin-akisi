@@ -1,351 +1,7 @@
 {
- "guncelleme": "2026-10-25 11:17",
+ "guncelleme": "2026-10-25 16:39",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "11:00",
-   "spor": "Tenis",
-   "lig": "WTA Ningbo",
-   "karsilasma": "E.Rybakina - L.Fernandez",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "11:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Ahmet Hamdi Tanpınar Ortaokulu - Başkent Arma",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Basketbol",
-   "lig": "Basketbol Süper Ligi",
-   "karsilasma": "Anadolu Efes - Körfez Basket",
-   "kanal": "beIN Sports 5",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Tenis",
-   "lig": "ATP Almatı",
-   "karsilasma": "D.Medvedev - N.Basilashvili",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Sultanlar Ligi",
-   "karsilasma": "Beşiktaş - Göztepe",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Erkekler 1. Lig",
-   "karsilasma": "Ziraat Bankkart - Niksar Bld.",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "TED Kolejliler - Çaba Spor",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Yedidağ - English Time Spor",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:30",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Pendikspor - Kayserispor",
-   "kanal": "TRT Spor, beIN Sports 2",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "13:30",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Batman Petrol - Esenler Erokspor",
-   "kanal": "tabii Spor 6, TRT Kurdi, beIN Sports Max 1",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Basketbol",
-   "lig": "Kadinlar Basketbol Süper Ligi",
-   "karsilasma": "OGM Orman - Kayseri Basket",
-   "kanal": "HT Spor",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Basketbol",
-   "lig": "Kadinlar Basketbol Süper Ligi",
-   "karsilasma": "Galatasaray - Nesibe Aydın",
-   "kanal": "TBF TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Basketbol",
-   "lig": "Azerbaycan Basketbol Ligi",
-   "karsilasma": "Neftchi IK - Gence",
-   "kanal": "Idman TV",
-   "platform": [],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Basketbol",
-   "lig": "İspanya Basketbol Ligi",
-   "karsilasma": "Basquet Girona - Joventut Badalona",
-   "kanal": "Spor Smart, Smart Spor HD",
-   "platform": [
-    "D Smart",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Futbol",
-   "lig": "TFF 2. Lig",
-   "karsilasma": "12 Bingölspor - Kırklarelispor",
-   "kanal": "Tivibu Spor 1",
-   "platform": [
-    "Tivibu",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Futbol",
-   "lig": "TFF 3. Lig",
-   "karsilasma": "Fatsa Bld. - İnkılap FK",
-   "kanal": "Yaay",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Voleybol",
-   "lig": "TVF Sultanlar Ligi",
-   "karsilasma": "Kuzeyboru - Nilüfer Bld.",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Voleybol",
-   "lig": "TVF Sultanlar Ligi",
-   "karsilasma": "Vakifbank - Galatasaray",
-   "kanal": "TRT Spor Yildiz",
-   "platform": [
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Çengelköy - ALP Spor",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:30",
-   "spor": "Futbol",
-   "lig": "İtalya Serie A",
-   "karsilasma": "Inter - Fiorentina",
-   "kanal": "S Sport Plus, S Sport 2",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:30",
-   "spor": "Futbol",
-   "lig": "TFF 3. Lig",
-   "karsilasma": "Alanya 1221 - Kepez Bld.",
-   "kanal": "Tivibu Spor 2",
-   "platform": [
-    "Tivibu",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:30",
-   "spor": "Futbol",
-   "lig": "TFF 3. Lig",
-   "karsilasma": "Kırıkkalespor - Osmaniyespor",
-   "kanal": "Tivibu Spor 3",
-   "platform": [
-    "Tivibu",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:30",
-   "spor": "Futbol",
-   "lig": "Almanya Bundesliga 3",
-   "karsilasma": "Havelse - Saarbrucken FC",
-   "kanal": "Sıfır TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "14:35",
-   "spor": "Basketbol",
-   "lig": "Çin CBA Basketbol Ligi",
-   "karsilasma": "Liaoning - Xinjiang",
-   "kanal": "Euroleague TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
   {
    "tarih": "2026-10-25",
    "gun": "Pazar",
@@ -1132,20 +788,6 @@
    "gun": "Pazar",
    "saat": "22:45",
    "spor": "Futbol",
-   "lig": "Fransa Ligue 1",
-   "karsilasma": "PSG - Lyon",
-   "kanal": "beIN Sports 3",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-10-25",
-   "gun": "Pazar",
-   "saat": "22:45",
-   "spor": "Futbol",
    "lig": "İtalya Serie A",
    "karsilasma": "Udinese - Milan",
    "kanal": "S Sport Plus, S Sport 2",
@@ -1335,6 +977,24 @@
   {
    "tarih": "2026-10-26",
    "gun": "Pazartesi",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "Plaj Futbolu Dünya Kulüpler Şampiyonasi",
+   "karsilasma": "BSC - Alanya Belediye",
+   "kanal": "TRT Spor",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-10-26",
+   "gun": "Pazartesi",
    "saat": "16:00",
    "spor": "Futbol",
    "lig": "TFF Elit U19 Ligi",
@@ -1476,6 +1136,19 @@
    "kanal": "beIN Sports 3",
    "platform": [
     "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-10-26",
+   "gun": "Pazartesi",
+   "saat": "22:30",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "PSG - Lyon",
+   "kanal": "beIN Connect",
+   "platform": [
     "İnternet"
    ],
    "sifresiz": false
