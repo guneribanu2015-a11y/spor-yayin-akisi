@@ -1,199 +1,7 @@
 {
- "guncelleme": "2026-11-01 22:28",
+ "guncelleme": "2026-11-02 13:50",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "20:30",
-   "spor": "Futbol",
-   "lig": "İspanya La Liga",
-   "karsilasma": "Elche - Valencia",
-   "kanal": "S Sport Plus, S Sport",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "21:00",
-   "spor": "Amerikan Futbolu",
-   "lig": "NFL",
-   "karsilasma": "Buffalo Bills - Baltimore Ravens",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "21:00",
-   "spor": "Basketbol",
-   "lig": "Fransa Basketbol Ligi LNB",
-   "karsilasma": "Paris - Chalon Su Saone",
-   "kanal": "Euroleague TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "21:00",
-   "spor": "Basketbol",
-   "lig": "İspanya Basketbol Ligi",
-   "karsilasma": "Unicaja Malaga - Barcelona",
-   "kanal": "Smart Spor 2, Spor Smart 2",
-   "platform": [
-    "D Smart",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "21:00",
-   "spor": "Futbol",
-   "lig": "Arjantin Primera Division",
-   "karsilasma": "Boca Juniors - River Plate",
-   "kanal": "Spor Smart, Smart Spor HD",
-   "platform": [
-    "D Smart",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "21:30",
-   "spor": "Futbol",
-   "lig": "Almanya Bundesliga 3",
-   "karsilasma": "Aachen - Preussen Münster",
-   "kanal": "Sıfır TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "22:45",
-   "spor": "Futbol",
-   "lig": "Fransa Ligue 1",
-   "karsilasma": "Marsilya - Toulouse",
-   "kanal": "beIN Sports 3",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "22:45",
-   "spor": "Futbol",
-   "lig": "İtalya Serie A",
-   "karsilasma": "Juventus - Napoli",
-   "kanal": "S Sport Plus, S Sport 2",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "23:00",
-   "spor": "Futbol",
-   "lig": "İspanya La Liga",
-   "karsilasma": "Athletic Bilbao - Real Sociedad",
-   "kanal": "S Sport Plus, S Sport, AzTV",
-   "platform": [
-    "Disney Plus",
-    "Kablo TV",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-01",
-   "gun": "Pazar",
-   "saat": "23:30",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Orlando Magic - Boston Celtics",
-   "kanal": "Prime Video, S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-02",
-   "gun": "Pazartesi",
-   "saat": "00:25",
-   "spor": "Amerikan Futbolu",
-   "lig": "NFL",
-   "karsilasma": "Denver Broncos - Kansas Chiefs",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-02",
-   "gun": "Pazartesi",
-   "saat": "01:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Indiana Pacers - Brooklyn Nets",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-02",
-   "gun": "Pazartesi",
-   "saat": "04:30",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "GS Warriors - LA Clippers",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-02",
-   "gun": "Pazartesi",
-   "saat": "05:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "LA Lakers - Toronto Raptors",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
   {
    "tarih": "2026-11-02",
    "gun": "Pazartesi",
@@ -202,6 +10,33 @@
    "lig": "ATP Paris",
    "karsilasma": "L.Musetti - H.Hurkacz",
    "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-02",
+   "gun": "Pazartesi",
+   "saat": "14:00",
+   "spor": "Futbol",
+   "lig": "Suwen Kadinlar Futbol Ligi",
+   "karsilasma": "Trabzonspor - Beşiktaş",
+   "kanal": "TFF Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-02",
+   "gun": "Pazartesi",
+   "saat": "14:00",
+   "spor": "Tenis",
+   "lig": "Tenis FIP Dünya Kupasi",
+   "karsilasma": "Fransa - Belçika",
+   "kanal": "beIN Connect",
    "platform": [
     "İnternet"
    ],
@@ -283,24 +118,23 @@
    "tarih": "2026-11-02",
    "gun": "Pazartesi",
    "saat": "18:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Ataşehir Kartalları - Kamarin Spor",
-   "kanal": "TVF Voleybol TV Youtube",
+   "spor": "Tenis",
+   "lig": "Tenis FIP Dünya Kupasi",
+   "karsilasma": "Portekiz - Katar",
+   "kanal": "beIN Connect",
    "platform": [
-    "Youtube",
     "İnternet"
    ],
-   "sifresiz": true
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-02",
    "gun": "Pazartesi",
-   "saat": "20:00",
-   "spor": "Basketbol",
-   "lig": "Eurocup Kadinlar",
-   "karsilasma": "TTT Riga - Elitzur Ramla",
-   "kanal": "FIBA TV",
+   "saat": "18:00",
+   "spor": "Voleybol",
+   "lig": "TVF Kadinlar 2. Lig",
+   "karsilasma": "Ataşehir Kartalları - Kamarin Spor",
+   "kanal": "TVF Voleybol TV Youtube",
    "platform": [
     "Youtube",
     "İnternet"
@@ -325,16 +159,12 @@
    "tarih": "2026-11-02",
    "gun": "Pazartesi",
    "saat": "20:00",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Kayserispor - Muğlaspor",
-   "kanal": "TRT Spor, beIN Sports 2",
+   "spor": "Basketbol",
+   "lig": "Eurocup Kadinlar",
+   "karsilasma": "TTT Riga - Elitzur Ramla",
+   "kanal": "FIBA TV",
    "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": true
@@ -352,6 +182,24 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-02",
+   "gun": "Pazartesi",
+   "saat": "20:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Kayserispor - Muğlaspor",
+   "kanal": "TRT Spor, beIN Sports 2",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-02",
@@ -427,9 +275,9 @@
    "gun": "Pazartesi",
    "saat": "22:45",
    "spor": "Futbol",
-   "lig": "Fransa Ligue 2",
-   "karsilasma": "Reims - Sochaux",
-   "kanal": "beIN Sports Max 1",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Lorient - Brest",
+   "kanal": "beIN Sports 2",
    "platform": [
     "Digiturk",
     "İnternet"
@@ -456,9 +304,9 @@
    "gun": "Pazartesi",
    "saat": "22:45",
    "spor": "Futbol",
-   "lig": "Fransa Ligue 1",
-   "karsilasma": "Lorient - Brest",
-   "kanal": "beIN Sports 2",
+   "lig": "Fransa Ligue 2",
+   "karsilasma": "Reims - Sochaux",
+   "kanal": "beIN Sports Max 1",
    "platform": [
     "Digiturk",
     "İnternet"
@@ -487,7 +335,7 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Newcastle - Everton",
-   "kanal": "beIN Sports 3",
+   "kanal": "beIN Sports 3, Idman TV",
    "platform": [
     "Digiturk",
     "İnternet"
@@ -754,7 +602,7 @@
    "saat": "06:00",
    "spor": "Basketbol",
    "lig": "NBA",
-   "karsilasma": "LA Clippers - Toronto Raptors",
+   "karsilasma": "LA Lakers - Miami Heat",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -767,7 +615,7 @@
    "saat": "06:00",
    "spor": "Basketbol",
    "lig": "NBA",
-   "karsilasma": "LA Lakers - Miami Heat",
+   "karsilasma": "LA Clippers - Toronto Raptors",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -866,6 +714,17 @@
   {
    "tarih": "2026-11-03",
    "gun": "Salı",
+   "saat": "19:30",
+   "spor": "Voleybol",
+   "lig": "CEV Kadinlar Şampiyonlar Ligi",
+   "karsilasma": "Maritsa Plovdiv - Tovuz",
+   "kanal": "Idman TV",
+   "platform": [],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-03",
+   "gun": "Salı",
    "saat": "20:00",
    "spor": "Basketbol",
    "lig": "FIBA Europe Cup",
@@ -957,6 +816,20 @@
    "saat": "20:45",
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
+   "karsilasma": "Shakhtar Donetsk - Sporting Lisbon",
+   "kanal": "tabii Spor",
+   "platform": [
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-03",
+   "gun": "Salı",
+   "saat": "20:45",
+   "spor": "Futbol",
+   "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Galatasaray - Stuttgart",
    "kanal": "TRT 1",
    "platform": [
@@ -969,20 +842,6 @@
     "İnternet"
    ],
    "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-03",
-   "gun": "Salı",
-   "saat": "20:45",
-   "spor": "Futbol",
-   "lig": "UEFA Şampiyonlar Ligi",
-   "karsilasma": "Shakhtar Donetsk - Sporting Lisbon",
-   "kanal": "tabii Spor",
-   "platform": [
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
   },
   {
    "tarih": "2026-11-03",
@@ -1004,7 +863,7 @@
    "saat": "21:00",
    "spor": "Basketbol",
    "lig": "Eurocup",
-   "karsilasma": "PAOK - BC Roma",
+   "karsilasma": "Buducnost - Chemnitz",
    "kanal": "Euroleague TV",
    "platform": [
     "İnternet"
@@ -1017,7 +876,7 @@
    "saat": "21:00",
    "spor": "Basketbol",
    "lig": "Eurocup",
-   "karsilasma": "Buducnost - Chemnitz",
+   "karsilasma": "PAOK - BC Roma",
    "kanal": "Euroleague TV",
    "platform": [
     "İnternet"
@@ -1116,7 +975,7 @@
    "saat": "22:30",
    "spor": "Basketbol",
    "lig": "FIBA Şampiyonlar Ligi",
-   "karsilasma": "Unicaja Malaga - Reggiana",
+   "karsilasma": "Porto - Joventut Badalona",
    "kanal": "FIBA Şampiyonlar Ligi Youtube",
    "platform": [
     "Youtube",
@@ -1130,7 +989,7 @@
    "saat": "22:30",
    "spor": "Basketbol",
    "lig": "FIBA Şampiyonlar Ligi",
-   "karsilasma": "Porto - Joventut Badalona",
+   "karsilasma": "Unicaja Malaga - Reggiana",
    "kanal": "FIBA Şampiyonlar Ligi Youtube",
    "platform": [
     "Youtube",
@@ -1159,9 +1018,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Barcelona - Aston Villa",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 1",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1173,9 +1031,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Bodo Glimt - Lille",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 5",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1187,9 +1044,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Feyenoord - Inter",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 3",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1201,9 +1057,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "LASK Linz - Slovan Bratislava",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 6",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1215,9 +1070,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Manchester Utd - Roma",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 4",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1229,9 +1083,8 @@
    "spor": "Futbol",
    "lig": "UEFA Şampiyonlar Ligi",
    "karsilasma": "Villarreal - PSG",
-   "kanal": "tabii Spor",
+   "kanal": "tabii Spor 2",
    "platform": [
-    "Turkcell TV+",
     "İnternet"
    ],
    "sifresiz": false
@@ -1563,12 +1416,9 @@
    "spor": "Basketbol",
    "lig": "FIBA Europe Cup",
    "karsilasma": "Lokomotiv Plovdiv - Neftchi IK",
-   "kanal": "FIBA TV",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
+   "kanal": "Idman TV",
+   "platform": [],
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-04",
@@ -1619,7 +1469,7 @@
    "spor": "Basketbol",
    "lig": "FIBA Europe Cup",
    "karsilasma": "SCMU Craiova - Gence",
-   "kanal": "FIBA TV",
+   "kanal": "Idman TV Youtube, FIBA TV",
    "platform": [
     "Youtube",
     "İnternet"
@@ -2029,7 +1879,7 @@
    "spor": "Basketbol",
    "lig": "FIBA Europe Cup",
    "karsilasma": "Benfica - Landau Lions",
-   "kanal": "FIBA TV",
+   "kanal": "FIBA TV, Idman TV",
    "platform": [
     "Youtube",
     "İnternet"
@@ -2523,9 +2373,23 @@
    "spor": "Basketbol",
    "lig": "Euroleague",
    "karsilasma": "Anadolu Efes - Paris",
-   "kanal": "S Sport Plus, S Sport 2",
+   "kanal": "S Sport Plus, S Sport 2, Idman TV",
    "platform": [
     "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-05",
+   "gun": "Perşembe",
+   "saat": "20:45",
+   "spor": "Futbol",
+   "lig": "UEFA Avrupa Ligi",
+   "karsilasma": "Crystal Palace - Hoffenheim",
+   "kanal": "tabii Spor",
+   "platform": [
     "Turkcell TV+",
     "İnternet"
    ],
@@ -2549,20 +2413,6 @@
     "İnternet"
    ],
    "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-05",
-   "gun": "Perşembe",
-   "saat": "20:45",
-   "spor": "Futbol",
-   "lig": "UEFA Avrupa Ligi",
-   "karsilasma": "Lilleström - Viktoria Plzen",
-   "kanal": "tabii Spor",
-   "platform": [
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
   },
   {
    "tarih": "2026-11-05",
@@ -2626,7 +2476,7 @@
    "saat": "20:45",
    "spor": "Futbol",
    "lig": "UEFA Avrupa Ligi",
-   "karsilasma": "Levski Sofya - Jagiellonia",
+   "karsilasma": "Lilleström - Viktoria Plzen",
    "kanal": "tabii Spor",
    "platform": [
     "Turkcell TV+",
@@ -2640,7 +2490,7 @@
    "saat": "20:45",
    "spor": "Futbol",
    "lig": "UEFA Avrupa Ligi",
-   "karsilasma": "Crystal Palace - Hoffenheim",
+   "karsilasma": "Levski Sofya - Jagiellonia",
    "kanal": "tabii Spor",
    "platform": [
     "Turkcell TV+",
@@ -2751,18 +2601,13 @@
    "saat": "23:00",
    "spor": "Futbol",
    "lig": "UEFA Avrupa Ligi",
-   "karsilasma": "Celtic - Beşiktaş",
-   "kanal": "TRT 1",
+   "karsilasma": "Celta Vigo - St.Gilloise",
+   "kanal": "tabii Spor",
    "platform": [
-    "D Smart",
-    "Digiturk",
-    "Fil Box",
-    "Kablo TV",
-    "Tivibu",
     "Turkcell TV+",
     "İnternet"
    ],
-   "sifresiz": true
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-05",
@@ -2840,13 +2685,18 @@
    "saat": "23:00",
    "spor": "Futbol",
    "lig": "UEFA Avrupa Ligi",
-   "karsilasma": "Celta Vigo - St.Gilloise",
-   "kanal": "tabii Spor",
+   "karsilasma": "Celtic - Beşiktaş",
+   "kanal": "TRT 1",
    "platform": [
+    "D Smart",
+    "Digiturk",
+    "Fil Box",
+    "Kablo TV",
+    "Tivibu",
     "Turkcell TV+",
     "İnternet"
    ],
-   "sifresiz": false
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-05",
@@ -3132,7 +2982,7 @@
    "saat": "03:00",
    "spor": "Basketbol",
    "lig": "NBA",
-   "karsilasma": "Charlotte Hornets - Boston Celtics",
+   "karsilasma": "Atlanta Hawks - Washington Wizards",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -3145,7 +2995,7 @@
    "saat": "03:00",
    "spor": "Basketbol",
    "lig": "NBA",
-   "karsilasma": "Atlanta Hawks - Washington Wizards",
+   "karsilasma": "Charlotte Hornets - Boston Celtics",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -3172,6 +3022,19 @@
    "spor": "Basketbol",
    "lig": "NBA",
    "karsilasma": "Cleveland Cavaliers - Philadelphia 76ers",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "04:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Dallas Mavericks - Utah Jazz",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -3211,19 +3074,6 @@
    "spor": "Basketbol",
    "lig": "NBA",
    "karsilasma": "NO Pelicans - Minnesota TW",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-07",
-   "gun": "Cumartesi",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Dallas Mavericks - Utah Jazz",
    "kanal": "Prime Video",
    "platform": [
     "İnternet"
@@ -3403,17 +3253,70 @@
   {
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
-   "saat": "13:30",
+   "saat": "13:00",
    "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Vanspor - Sivasspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Ankaragücü - Kahramanmaraş İstiklal",
+   "kanal": "Tivibu Spor",
    "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
+    "Fil Box",
     "Tivibu",
-    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Fatsa Bld. - Pazarspor",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Etimesgut Bld. - Altay",
+   "kanal": "Tivibu Spor 2",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Yeşilyurt Bld. - Kırşehirspor",
+   "kanal": "Tivibu Spor 3",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Karaköprü Bld. - Niğde Bld.",
+   "kanal": "Tivibu Spor 4",
+   "platform": [
+    "Tivibu",
     "İnternet"
    ],
    "sifresiz": true
@@ -3439,6 +3342,24 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Keçiörengücü - Manisa FK",
+   "kanal": "TRT Spor, beIN Connect",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:30",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Vanspor - Sivasspor",
    "kanal": "TRT Spor, beIN Connect",
    "platform": [
     "D Smart",
@@ -3544,6 +3465,19 @@
   {
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
+   "saat": "15:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Kartal Bulvar Kartalimen - Zonguldakspor",
+   "kanal": "Yaay",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
    "saat": "15:30",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -3567,6 +3501,48 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Eskişehirspor - Kepez Bld.",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Karşıyaka - Bigaspor",
+   "kanal": "Tivibu Spor 2",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Bucaspor - Sökespor",
+   "kanal": "Tivibu Spor 3",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-07",
@@ -3821,7 +3797,7 @@
    "saat": "18:00",
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
-   "karsilasma": "Fulham - Newcastle",
+   "karsilasma": "Arsenal - Hull City",
    "kanal": "beIN Connect",
    "platform": [
     "İnternet"
@@ -3834,7 +3810,7 @@
    "saat": "18:00",
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
-   "karsilasma": "Arsenal - Hull City",
+   "karsilasma": "Fulham - Newcastle",
    "kanal": "beIN Connect",
    "platform": [
     "İnternet"
@@ -3924,6 +3900,33 @@
     "Kablo TV",
     "Tivibu",
     "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "19:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Aliağa FK - Muşspor",
+   "kanal": "Yaay",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "19:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Balıkesirspor - Gaziemirspor",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
     "İnternet"
    ],
    "sifresiz": true
@@ -4187,6 +4190,1154 @@
    "lig": "NCAA",
    "karsilasma": "LSU - Alabama",
    "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "01:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Indiana Pacers - Denver Nuggets",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "03:30",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Atlanta Hawks - Brooklyn Nets",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "04:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Cleveland Cavaliers - New York Knicks",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "04:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "OKC Thunder - Washington Wizards",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "04:00",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "M.Kondrataicius - A.Petroski",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "04:30",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "GS Warriors - Orlando Magic",
+   "kanal": "Prime Video, S Sport Plus, S Sport",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "04:30",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "B.Elekana - L.Fernando",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "05:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Phoenix Suns - Houston Rockets",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "05:00",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "S.Ko - W.Turman",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "05:30",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "D.Grant - E.Smith",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "06:00",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Portland TB - SA Spurs",
+   "kanal": "Prime Video",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "06:00",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "T.Suarez - V.Jandiroba",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "06:30",
+   "spor": "Dövüş Sporları",
+   "lig": "UFC Dövüş Serisi",
+   "karsilasma": "G.Bonfim - S.Brady",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Süper Ligi",
+   "karsilasma": "Bahçeşehir Klj - Denizli Basket",
+   "kanal": "beIN Sports 5",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Ankara Demir - 24 Erzincanspor",
+   "kanal": "Yaay",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Isparta 32 Spor - Erbaaspor",
+   "kanal": "Tivibu Spor",
+   "platform": [
+    "Fil Box",
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "12 Bingölspor - Beyoğlu Yeni Çarşı",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Sebat Gençlik - Kastamonuspor",
+   "kanal": "Tivibu Spor 2",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:00",
+   "spor": "Voleybol",
+   "lig": "TVF Erkekler 1. Lig",
+   "karsilasma": "TVF Spor Lisesi - Kilis Gençlik",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:30",
+   "spor": "Futbol",
+   "lig": "Trendyol Süper Lig",
+   "karsilasma": "Ç.Rizespor - Erzurumspor",
+   "kanal": "beIN Sports 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "13:30",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Bandırmaspor - Karagümrük",
+   "kanal": "TRT Spor, beIN Connect",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "14:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Süper Ligi",
+   "karsilasma": "Yozgat GSK - Bursa BB",
+   "kanal": "THF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "14:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Galatasaray Daikin - Beşiktaş",
+   "kanal": "TRT Spor Yildiz",
+   "platform": [
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "14:15",
+   "spor": "Futbol",
+   "lig": "Hollanda Eredivisie",
+   "karsilasma": "Heerenveen - Feyenoord",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "14:30",
+   "spor": "Futbol",
+   "lig": "İtalya Serie A",
+   "karsilasma": "Napoli - Lazio",
+   "kanal": "S Sport Plus, S Sport 2",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Gebzespor - İnegöl Kafkas",
+   "kanal": "Yaay",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Süper Ligi",
+   "karsilasma": "Ortahisar Bld - Manisa BB",
+   "kanal": "THF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Afyon Bld. - Manisa BB",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Basketbol",
+   "lig": "Basketbol Süper Ligi",
+   "karsilasma": "Anadolu Efes - Tofaş",
+   "kanal": "beIN Sports 5",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "52 Orduspor - Sakaryaspor",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Elazığspor - Şanlıurfaspor",
+   "kanal": "Tivibu Spor 2",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Fethiyespor - Adana 01 FK",
+   "kanal": "Tivibu Spor 3",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "15:30",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "Adana Demirspor - Ankaraspor",
+   "kanal": "Tivibu Spor 4",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "Trendyol Süper Lig",
+   "karsilasma": "Çorum FK - Fenerbahçe",
+   "kanal": "beIN Sports 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Ümraniyespor - Kayserispor",
+   "kanal": "TRT Spor, beIN Connect",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Boluspor - Bodrumspor",
+   "kanal": "TRT Spor, beIN Connect",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "İspanya La Liga",
+   "karsilasma": "Elche - Real Betis",
+   "kanal": "S Sport Plus, S Sport",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Şampiyonlar Ligi",
+   "karsilasma": "Esbjerg - Ferencvaros",
+   "kanal": "EHF TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Süper Ligi",
+   "karsilasma": "Göztepe - Yalıkavak",
+   "kanal": "THF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Süper Ligi",
+   "karsilasma": "Üsküdar Bld. - Odunpazari",
+   "kanal": "THF TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Zeren Spor - Kuzeyboru",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Nilüfer Bld. - Vakifbank",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Aras Kargo - İLBANK",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "16:30",
+   "spor": "Futbol",
+   "lig": "Hollanda Eredivisie",
+   "karsilasma": "Twente - Ajax",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İngiltere Premier Lig",
+   "karsilasma": "Brighton - Brentford",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İngiltere Premier Lig",
+   "karsilasma": "Crystal Palace - Liverpool",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İngiltere Premier Lig",
+   "karsilasma": "Ipswich Town - Bournemouth",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İngiltere Premier Lig",
+   "karsilasma": "Sunderland - Chelsea",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Rennes - Lille",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İtalya Serie A",
+   "karsilasma": "Genoa - Milan",
+   "kanal": "S Sport Plus, S Sport 2",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:00",
+   "spor": "Futbol",
+   "lig": "İtalya Serie A",
+   "karsilasma": "Monza - Atalanta",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "17:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga",
+   "karsilasma": "Köln - Bayer Leverkusen",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Basketbol",
+   "lig": "Basketbol Süper Ligi",
+   "karsilasma": "Galatasaray MCT Technic - Esenler Erokspor",
+   "kanal": "beIN Sports 5",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Şampiyonlar Ligi",
+   "karsilasma": "Bistrita - Podravka Vegeta",
+   "kanal": "EHF TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Şampiyonlar Ligi",
+   "karsilasma": "Borussia Dortmund - Buducnost",
+   "kanal": "EHF TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Hentbol",
+   "lig": "Hentbol Kadinlar Şampiyonlar Ligi",
+   "karsilasma": "Metz - Odense",
+   "kanal": "EHF TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "Eczacibasi - Göztepe",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:15",
+   "spor": "Futbol",
+   "lig": "İspanya La Liga",
+   "karsilasma": "Real Sociedad - Rayo Vallecano",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:30",
+   "spor": "Basketbol",
+   "lig": "Fransa Basketbol Ligi LNB",
+   "karsilasma": "Paris - JL Bourg",
+   "kanal": "Euroleague TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:30",
+   "spor": "Futbol",
+   "lig": "Trendyol Süper Lig",
+   "karsilasma": "Alanyaspor - Trabzonspor",
+   "kanal": "beIN Sports 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "18:45",
+   "spor": "Futbol",
+   "lig": "Hollanda Eredivisie",
+   "karsilasma": "Cambuur - PSV",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Basketbol",
+   "lig": "Avustralya NBL",
+   "karsilasma": "Sydney Kings - Melbourne Phoenix",
+   "kanal": "Euroleague TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Basketbol",
+   "lig": "İtalya Basketbol Ligi",
+   "karsilasma": "Olimpia Milano - Energia Trento",
+   "kanal": "Euroleague TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Futbol",
+   "lig": "Trendyol 1. Lig",
+   "karsilasma": "Mardin 1969 - Batman Petrol",
+   "kanal": "TRT Spor, beIN Connect",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Futbol",
+   "lig": "Ukrayna Premier Ligi",
+   "karsilasma": "Shakhtar Donetsk - Dinamo Kiev",
+   "kanal": "Tivibu Spor 1",
+   "platform": [
+    "Tivibu",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Voleybol",
+   "lig": "TVF Sultanlar Ligi",
+   "karsilasma": "THY - Fenerbahçe Medicana",
+   "kanal": "TRT Spor Yildiz",
+   "platform": [
+    "Digiturk",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:00",
+   "spor": "Voleybol",
+   "lig": "TVF Erkekler 1. Lig",
+   "karsilasma": "Arkas - Düzce Bld.",
+   "kanal": "TVF Voleybol TV Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:15",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Angers - Nice",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:15",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Brest - Lyon",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:15",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Le Havre - Lorient",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:15",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Le Mans - Monaco",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:30",
+   "spor": "Futbol",
+   "lig": "İngiltere Premier Lig",
+   "karsilasma": "Manchester Utd - Aston Villa",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "19:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga",
+   "karsilasma": "Freiburg - Union Berlin",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "20:00",
+   "spor": "Futbol",
+   "lig": "İtalya Serie A",
+   "karsilasma": "Inter - Como",
+   "kanal": "S Sport Plus, S Sport 2",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "20:30",
+   "spor": "Futbol",
+   "lig": "İspanya La Liga",
+   "karsilasma": "Celta Vigo - Levante",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "20:30",
+   "spor": "Futbol",
+   "lig": "İspanya La Liga",
+   "karsilasma": "Villarreal - Getafe",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "21:00",
+   "spor": "Amerikan Futbolu",
+   "lig": "NFL",
+   "karsilasma": "Washington Commanders - LA Rams",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "21:00",
+   "spor": "Futbol",
+   "lig": "Trendyol Süper Lig",
+   "karsilasma": "Beşiktaş - Gençlerbirliği",
+   "kanal": "beIN Sports 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "21:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga",
+   "karsilasma": "Hoffenheim - Schalke 04",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "22:45",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 1",
+   "karsilasma": "Lens - Marsilya",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "22:45",
+   "spor": "Futbol",
+   "lig": "İtalya Serie A",
+   "karsilasma": "Fiorentina - Juventus",
+   "kanal": "S Sport Plus, S Sport 2",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "23:00",
+   "spor": "Futbol",
+   "lig": "İspanya La Liga",
+   "karsilasma": "Atletico Madrid - Barcelona",
+   "kanal": "S Sport Plus, S Sport",
+   "platform": [
+    "Disney Plus",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-08",
+   "gun": "Pazar",
+   "saat": "23:30",
+   "spor": "Basketbol",
+   "lig": "NBA",
+   "karsilasma": "Chicago Bulls - Philadelphia 76ers",
+   "kanal": "Prime Video, S Sport Plus",
    "platform": [
     "İnternet"
    ],
