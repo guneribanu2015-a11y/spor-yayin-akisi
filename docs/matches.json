@@ -1,248 +1,7 @@
 {
- "guncelleme": "2026-11-06 13:39",
+ "guncelleme": "2026-11-06 23:47",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "13:30",
-   "spor": "Tenis",
-   "lig": "WTA Hong Kong",
-   "karsilasma": "A.Sasnovich - M.Sakkari",
-   "kanal": "beIN Sports Max 1",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "14:00",
-   "spor": "Tenis",
-   "lig": "Tenis FIP Dünya Kupasi",
-   "karsilasma": "İspanya - Fransa",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "14:30",
-   "spor": "Snooker",
-   "lig": "Snooker Uluslararasi Şampiyona",
-   "karsilasma": "B.Chang - J.Higgins",
-   "kanal": "Eurosport",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "15:00",
-   "spor": "Tenis",
-   "lig": "WTA Hong Kong",
-   "karsilasma": "A.Ruzic - A.Eala",
-   "kanal": "beIN Sports Max 1",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "16:00",
-   "spor": "Tenis",
-   "lig": "ATP Paris",
-   "karsilasma": "B.Shelton - T.Paul",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "17:00",
-   "spor": "Futbol",
-   "lig": "Azerbaycan Premier Ligi",
-   "karsilasma": "Karabağ - Turan",
-   "kanal": "Idman TV",
-   "platform": [],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "18:00",
-   "spor": "Tenis",
-   "lig": "ATP Paris",
-   "karsilasma": "L.Van Assche - R.Hijikata",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "18:00",
-   "spor": "Tenis",
-   "lig": "Tenis FIP Dünya Kupasi",
-   "karsilasma": "Arjantin - İtalya",
-   "kanal": "beIN Connect",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "18:00",
-   "spor": "Voleybol",
-   "lig": "TVF Kadinlar 2. Lig",
-   "karsilasma": "Dinamo Spor - Dev Ataşehir",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "19:00",
-   "spor": "Voleybol",
-   "lig": "TVF Erkekler 1. Lig",
-   "karsilasma": "Galatasaray - Fenerbahçe Medicana",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:00",
-   "spor": "Basketbol",
-   "lig": "Euroleague",
-   "karsilasma": "Beşiktaş - Zalgiris Kaunas",
-   "kanal": "S Sport Plus, S Sport",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:00",
-   "spor": "Basketbol",
-   "lig": "Azerbaycan Basketbol Ligi",
-   "karsilasma": "Ordu - Sabah BC",
-   "kanal": "Idman TV",
-   "platform": [],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:00",
-   "spor": "Futbol",
-   "lig": "Trendyol Süper Lig",
-   "karsilasma": "Gaziantep FK - Kasımpaşa",
-   "kanal": "beIN Sports 1",
-   "platform": [
-    "Digiturk",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:00",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Antalyaspor - Bursaspor",
-   "kanal": "TRT Spor, beIN Sports 2",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:00",
-   "spor": "Futbol",
-   "lig": "Trendyol 1. Lig",
-   "karsilasma": "Sarıyer - Iğdırspor",
-   "kanal": "TRT Türk, beIN Sports Max 1",
-   "platform": [
-    "D Smart",
-    "Digiturk",
-    "Fil Box",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
-    "Vodafone TV",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "20:30",
-   "spor": "Futbol",
-   "lig": "Almanya Bundesliga 2",
-   "karsilasma": "Braunschweig - Energie Cottbus",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-06",
-   "gun": "Cuma",
-   "saat": "21:00",
-   "spor": "Tenis",
-   "lig": "ATP Paris",
-   "karsilasma": "T.Fritz - C.Alcaraz",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
   {
    "tarih": "2026-11-06",
    "gun": "Cuma",
@@ -631,6 +390,46 @@
   {
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
+   "saat": "09:00",
+   "spor": "Tenis",
+   "lig": "WTA Hong Kong",
+   "karsilasma": "A.Shubladze - C.Liu",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "10:30",
+   "spor": "Tenis",
+   "lig": "WTA Hong Kong",
+   "karsilasma": "M.Sakkari - A.Eala",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "11:00",
+   "spor": "Futbol",
+   "lig": "KKTC Dostluk Kupasi",
+   "karsilasma": "Galatasaray - Lefkoşa Karnasi",
+   "kanal": "tabii Spor 7",
+   "platform": [
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
    "saat": "11:00",
    "spor": "Voleybol",
    "lig": "TVF Erkekler 2. Lig",
@@ -641,6 +440,20 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "12:00",
+   "spor": "Futbol",
+   "lig": "KKTC Dostluk Kupasi",
+   "karsilasma": "Fenerbahçe - Girne Karnasi",
+   "kanal": "tabii Spor 7",
+   "platform": [
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-07",
@@ -732,6 +545,20 @@
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
    "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "KKTC Dostluk Kupasi",
+   "karsilasma": "Beşiktaş - Gazimağusa İskele Karnasi",
+   "kanal": "tabii Spor 7",
+   "platform": [
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "13:00",
    "spor": "Voleybol",
    "lig": "TVF Kadinlar 1. Lig",
    "karsilasma": "Karayollari - Merinos",
@@ -791,16 +618,12 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Keçiörengücü - Manisa FK",
-   "kanal": "TRT Spor, beIN Sports 2",
+   "kanal": "tabii Spor 6, beIN Sports 2",
    "platform": [
-    "D Smart",
     "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
     "İnternet"
    ],
-   "sifresiz": true
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-07",
@@ -809,10 +632,11 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Vanspor - Sivasspor",
-   "kanal": "TRT Spor, beIN Sports Max 1",
+   "kanal": "TRT Avaz, beIN Sports Max 1",
    "platform": [
     "D Smart",
     "Digiturk",
+    "Fil Box",
     "Kablo TV",
     "Tivibu",
     "Turkcell TV+",
@@ -851,6 +675,20 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "14:00",
+   "spor": "Futbol",
+   "lig": "KKTC Dostluk Kupasi",
+   "karsilasma": "Trabzonspor - Güzelyurt Lefke İskele Karnasi",
+   "kanal": "tabii Spor 7",
+   "platform": [
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-07",
@@ -1020,6 +858,20 @@
   {
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
+   "saat": "15:30",
+   "spor": "Tenis",
+   "lig": "WTA Chennai",
+   "karsilasma": "J.Tien - R.Montgomery",
+   "kanal": "beIN Sports Max 1",
+   "platform": [
+    "Digiturk",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
    "saat": "16:00",
    "spor": "Basketbol",
    "lig": "Kadinlar Basketbol Süper Ligi",
@@ -1094,13 +946,15 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Muğlaspor - Esenler Erokspor",
-   "kanal": "TRT Spor, beIN Sports Haber",
+   "kanal": "TRT Türk, beIN Sports Haber",
    "platform": [
     "D Smart",
     "Digiturk",
+    "Fil Box",
     "Kablo TV",
     "Tivibu",
     "Turkcell TV+",
+    "Vodafone TV",
     "İnternet"
    ],
    "sifresiz": true
@@ -1235,6 +1089,32 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "16:30",
+   "spor": "Tenis",
+   "lig": "ATP Paris",
+   "karsilasma": "L.Van Assche - B.Shelton",
+   "kanal": "S Sport Plus",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "16:30",
+   "spor": "Tenis",
+   "lig": "WTA Chennai",
+   "karsilasma": "M.Linette - A.Zakharova",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-07",
@@ -1611,19 +1491,6 @@
    "tarih": "2026-11-07",
    "gun": "Cumartesi",
    "saat": "20:00",
-   "spor": "Dövüş Sporları",
-   "lig": "MMA Kafes Dövüşü",
-   "karsilasma": "I.Severino - M.Holzer",
-   "kanal": "S Sport Plus",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-07",
-   "gun": "Cumartesi",
-   "saat": "20:00",
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Auxerre - Paris FC",
@@ -1741,6 +1608,19 @@
    "kanal": "Idman TV Youtube, S Sport Plus",
    "platform": [
     "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-07",
+   "gun": "Cumartesi",
+   "saat": "22:00",
+   "spor": "Dövüş Sporları",
+   "lig": "MMA Kafes Dövüşü",
+   "karsilasma": "I.Severino - M.Holzer",
+   "kanal": "S Sport Plus",
+   "platform": [
     "İnternet"
    ],
    "sifresiz": false
@@ -2533,16 +2413,12 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Boluspor - Bodrumspor",
-   "kanal": "TRT Spor, beIN Sports Max 1",
+   "kanal": "tabii Spor 6, beIN Sports Max 1",
    "platform": [
-    "D Smart",
     "Digiturk",
-    "Kablo TV",
-    "Tivibu",
-    "Turkcell TV+",
     "İnternet"
    ],
-   "sifresiz": true
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-08",
@@ -2992,7 +2868,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Mardin 1969 - Batman Petrol",
-   "kanal": "TRT Spor, beIN Sports 2",
+   "kanal": "TRT Kurdi, beIN Sports 2",
    "platform": [
     "D Smart",
     "Digiturk",
