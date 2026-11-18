@@ -1,104 +1,7 @@
 {
- "guncelleme": "2026-11-18 01:49",
+ "guncelleme": "2026-11-18 14:26",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "03:00",
-   "spor": "Basketbol",
-   "lig": "NCAA",
-   "karsilasma": "Duke - Illinois",
-   "kanal": "S Sport Plus, S Sport 2",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "03:30",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Toronto Raptors - New York Knicks",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Minnesota TW - Portland TB",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "SA Spurs - Detroit Pistons",
-   "kanal": "Prime Video, S Sport Plus, S Sport",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "05:30",
-   "spor": "Basketbol",
-   "lig": "NCAA",
-   "karsilasma": "Kansas - UNLV",
-   "kanal": "S Sport Plus, S Sport 2",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "06:30",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "LA Clippers - Utah Jazz",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-18",
-   "gun": "Çarşamba",
-   "saat": "07:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "LA Lakers - Charlotte Hornets",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
   {
    "tarih": "2026-11-18",
    "gun": "Çarşamba",
@@ -165,6 +68,39 @@
    "karsilasma": "Ankara Demir - 52 Orduspor",
    "kanal": "Yaay",
    "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-18",
+   "gun": "Çarşamba",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "Suwen Kadinlar Futbol Ligi",
+   "karsilasma": "Fenerbahçe ArsaVev - Ünye 1957",
+   "kanal": "FB TV",
+   "platform": [
+    "D Smart",
+    "Digiturk",
+    "Fil Box",
+    "Kablo TV",
+    "Tivibu",
+    "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-18",
+   "gun": "Çarşamba",
+   "saat": "13:00",
+   "spor": "Futbol",
+   "lig": "TFF 2. Lig",
+   "karsilasma": "1461 Trabzon - Kahramanmaraş İstiklal",
+   "kanal": "Kahramanmaraş İstiklal Youtube",
+   "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": false
@@ -1489,7 +1425,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Iğdırspor - Ümraniyespor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -1604,8 +1540,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Troyes - Le Havre",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 2",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -1939,7 +1876,7 @@
    "spor": "Futbol",
    "lig": "Trendyol Süper Lig",
    "karsilasma": "Gençlerbirliği - Gaziantep FK",
-   "kanal": "beIN Sports 1",
+   "kanal": "beIN Sports 2",
    "platform": [
     "Digiturk",
     "İnternet"
@@ -1953,7 +1890,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "İstanbulspor - Keçiörengücü",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Max 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -1971,7 +1908,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Mardin 1969 - Bandırmaspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Max 1",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -2120,8 +2057,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Manchester City - Fulham",
-   "kanal": "beIN Connect, Idman TV",
+   "kanal": "beIN Sports 3, Idman TV",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2202,7 +2140,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Kayserispor - Sarıyer",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Haber",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -2224,6 +2162,19 @@
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 2",
+   "karsilasma": "Laval - Montpellier",
+   "kanal": "beIN Connect",
+   "platform": [
     "İnternet"
    ],
    "sifresiz": false
@@ -2519,8 +2470,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Aston Villa - Sunderland",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports Max 2",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2545,8 +2497,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Chelsea - Leeds United",
-   "kanal": "beIN Connect, Idman TV",
+   "kanal": "beIN Sports 3, Idman TV",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2571,8 +2524,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Tottenham - Ipswich Town",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports Max 1",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2639,7 +2593,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Karagümrük - Boluspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -2702,8 +2656,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Nice - PSG",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 4",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2798,8 +2753,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Newcastle - Arsenal",
-   "kanal": "beIN Connect, Idman TV",
+   "kanal": "beIN Sports 3, Idman TV",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2859,6 +2815,19 @@
   {
    "tarih": "2026-11-21",
    "gun": "Cumartesi",
+   "saat": "22:00",
+   "spor": "Futbol",
+   "lig": "Fransa Ligue 2",
+   "karsilasma": "Reims - St. Etienne",
+   "kanal": "beIN Connect",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
    "saat": "22:30",
    "spor": "Dövüş Sporları",
    "lig": "UFC Dövüş Serisi",
@@ -2876,8 +2845,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Lens - Toulouse",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 4",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2889,8 +2859,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Lille - Lyon",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 2",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -2902,8 +2873,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Monaco - Auxerre",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 3",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -3231,7 +3203,7 @@
    "spor": "Futbol",
    "lig": "Trendyol Süper Lig",
    "karsilasma": "Erzurumspor - Göztepe",
-   "kanal": "beIN Sports 1",
+   "kanal": "beIN Sports 2",
    "platform": [
     "Digiturk",
     "İnternet"
@@ -3245,7 +3217,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Batman Petrol - Muğlaspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Max 1",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -3528,7 +3500,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Esenler Erokspor - Antalyaspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Max 1",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -3546,7 +3518,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Manisa FK - Pendikspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports Max 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -3725,8 +3697,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Paris FC - Angers",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 4",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -3766,8 +3739,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Hull City - Brighton",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 3",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -3916,7 +3890,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Bursaspor - Sivasspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -3993,8 +3967,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Lorient - Rennes",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 4",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -4020,8 +3995,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Liverpool - Manchester Utd",
-   "kanal": "beIN Connect, Idman TV",
+   "kanal": "beIN Sports 3, Idman TV",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -4157,8 +4133,9 @@
    "spor": "Futbol",
    "lig": "Fransa Ligue 1",
    "karsilasma": "Marsilya - Le Mans",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 3",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
@@ -4352,7 +4329,7 @@
    "spor": "Futbol",
    "lig": "Trendyol 1. Lig",
    "karsilasma": "Bodrumspor - Vanspor",
-   "kanal": "TRT Spor, beIN Connect",
+   "kanal": "TRT Spor, beIN Sports 2",
    "platform": [
     "D Smart",
     "Digiturk",
@@ -4413,8 +4390,9 @@
    "spor": "Futbol",
    "lig": "İngiltere Premier Lig",
    "karsilasma": "Brentford - Everton",
-   "kanal": "beIN Connect",
+   "kanal": "beIN Sports 3",
    "platform": [
+    "Digiturk",
     "İnternet"
    ],
    "sifresiz": false
