@@ -1,89 +1,7 @@
 {
- "guncelleme": "2026-11-20 01:37",
+ "guncelleme": "2026-11-20 14:13",
  "kaynak": "sporekrani.com",
  "maclar": [
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "01:30",
-   "spor": "Futbol",
-   "lig": "Brezilya Serie A",
-   "karsilasma": "Vasco Da Gama - Internacional",
-   "kanal": "Spor Smart, Smart Spor HD",
-   "platform": [
-    "D Smart",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "03:30",
-   "spor": "Futbol",
-   "lig": "Brezilya Serie A",
-   "karsilasma": "Sao Paulo - Fluminense",
-   "kanal": "Spor Smart, Smart Spor HD",
-   "platform": [
-    "D Smart",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Memphis Grizzlies - GS Warriors",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Milwaukee Bucks - Portland TB",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "Minnesota TW - New York Knicks",
-   "kanal": "Prime Video",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
-  {
-   "tarih": "2026-11-20",
-   "gun": "Cuma",
-   "saat": "04:00",
-   "spor": "Basketbol",
-   "lig": "NBA",
-   "karsilasma": "SA Spurs - LA Clippers",
-   "kanal": "Prime Video, S Sport Plus, S Sport",
-   "platform": [
-    "Disney Plus",
-    "Turkcell TV+",
-    "İnternet"
-   ],
-   "sifresiz": false
-  },
   {
    "tarih": "2026-11-20",
    "gun": "Cuma",
@@ -97,6 +15,20 @@
     "İnternet"
    ],
    "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-20",
+   "gun": "Cuma",
+   "saat": "15:45",
+   "spor": "Futbol",
+   "lig": "İran Pro Lig",
+   "karsilasma": "Persepolis - Paykan",
+   "kanal": "Sorkhabi Youtube",
+   "platform": [
+    "Youtube",
+    "İnternet"
+   ],
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-20",
@@ -259,6 +191,19 @@
   {
    "tarih": "2026-11-20",
    "gun": "Cuma",
+   "saat": "21:00",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga 3",
+   "karsilasma": "Havelse - Fortuna Köln",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-20",
+   "gun": "Cuma",
    "saat": "22:00",
    "spor": "Hentbol",
    "lig": "Fransa Hentbol Ligi",
@@ -310,6 +255,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-20",
+   "gun": "Cuma",
+   "saat": "22:30",
+   "spor": "Futbol",
+   "lig": "İtalya Serie B",
+   "karsilasma": "Verona - Cesena",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-20",
@@ -390,6 +348,20 @@
    "platform": [
     "Disney Plus",
     "Turkcell TV+",
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
+   "saat": "02:00",
+   "spor": "Futbol",
+   "lig": "Arjantin Primera Division",
+   "karsilasma": "Velez Sarsfield - Belgrano",
+   "kanal": "Spor Smart, Smart Spor HD",
+   "platform": [
+    "D Smart",
     "İnternet"
    ],
    "sifresiz": false
@@ -860,20 +832,6 @@
   {
    "tarih": "2026-11-21",
    "gun": "Cumartesi",
-   "saat": "15:00",
-   "spor": "Voleybol",
-   "lig": "TVF Sultanlar Ligi",
-   "karsilasma": "Aras Kargo - Fenerbahçe Medicana",
-   "kanal": "TVF Voleybol TV Youtube",
-   "platform": [
-    "Youtube",
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-21",
-   "gun": "Cumartesi",
    "saat": "15:30",
    "spor": "Basketbol",
    "lig": "Basketbol Süper Ligi",
@@ -1027,6 +985,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
+   "saat": "16:00",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga 3",
+   "karsilasma": "Fortuna Düsseldorf - Grossaspach",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-21",
@@ -1452,6 +1423,19 @@
   {
    "tarih": "2026-11-21",
    "gun": "Cumartesi",
+   "saat": "18:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga 3",
+   "karsilasma": "Aachen - Manheim",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
    "saat": "19:00",
    "spor": "Futbol",
    "lig": "Trendyol Süper Lig",
@@ -1539,6 +1523,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
+   "saat": "19:15",
+   "spor": "Futbol",
+   "lig": "İtalya Serie B",
+   "karsilasma": "Catanzaro - Palermo",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-21",
@@ -1716,6 +1713,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-21",
+   "gun": "Cumartesi",
+   "saat": "21:30",
+   "spor": "Futbol",
+   "lig": "İtalya Serie B",
+   "karsilasma": "Empoli - Pisa",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-21",
@@ -2237,6 +2247,19 @@
    "tarih": "2026-11-22",
    "gun": "Pazar",
    "saat": "14:30",
+   "spor": "Buz Hokeyi",
+   "lig": "TBHF Kadinlar Süper Ligi",
+   "karsilasma": "Kocaeli Akincilar - Buz Adamlar GSK",
+   "kanal": "Buz Hokeyi TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-22",
+   "gun": "Pazar",
+   "saat": "14:30",
    "spor": "Futbol",
    "lig": "İtalya Serie A",
    "karsilasma": "Juventus - Venezia",
@@ -2249,15 +2272,16 @@
   {
    "tarih": "2026-11-22",
    "gun": "Pazar",
-   "saat": "15:00",
-   "spor": "Buz Hokeyi",
-   "lig": "TBHF Kadinlar Süper Ligi",
-   "karsilasma": "Kocaeli Akincilar - Buz Adamlar GSK",
-   "kanal": "Buz Hokeyi TV",
+   "saat": "14:45",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Karşıyaka - Alanya 1221",
+   "kanal": "Karşıyaka Youtube",
    "platform": [
+    "Youtube",
     "İnternet"
    ],
-   "sifresiz": true
+   "sifresiz": false
   },
   {
    "tarih": "2026-11-22",
@@ -2281,6 +2305,20 @@
    "karsilasma": "Menemenspor - Şanlıurfaspor",
    "kanal": "Yaay",
    "platform": [
+    "İnternet"
+   ],
+   "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-22",
+   "gun": "Pazar",
+   "saat": "15:00",
+   "spor": "Futbol",
+   "lig": "TFF 3. Lig",
+   "karsilasma": "Ayvalıkgücü Bld. - Balıkesirspor",
+   "kanal": "Balıkesirspor Youtube",
+   "platform": [
+    "Youtube",
     "İnternet"
    ],
    "sifresiz": false
@@ -2719,19 +2757,6 @@
    "tarih": "2026-11-22",
    "gun": "Pazar",
    "saat": "17:30",
-   "spor": "Buz Hokeyi",
-   "lig": "Intercity Buz Hokeyi Süper Ligi",
-   "karsilasma": "Buz Adamlar GSK - Kocaeli Akincilar",
-   "kanal": "Buz Hokeyi TV",
-   "platform": [
-    "İnternet"
-   ],
-   "sifresiz": true
-  },
-  {
-   "tarih": "2026-11-22",
-   "gun": "Pazar",
-   "saat": "17:30",
    "spor": "Futbol",
    "lig": "Almanya Bundesliga",
    "karsilasma": "Augsburg - Mainz",
@@ -2806,6 +2831,19 @@
    "lig": "Fransa Basketbol Ligi LNB",
    "karsilasma": "Paris - Gravelines Dunkerque",
    "kanal": "Euroleague TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-22",
+   "gun": "Pazar",
+   "saat": "18:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga 3",
+   "karsilasma": "Saarbrucken FC - Wehen Wiesbaden",
+   "kanal": "Sıfır TV",
    "platform": [
     "İnternet"
    ],
@@ -2989,6 +3027,19 @@
    "tarih": "2026-11-22",
    "gun": "Pazar",
    "saat": "20:00",
+   "spor": "Buz Hokeyi",
+   "lig": "Intercity Buz Hokeyi Süper Ligi",
+   "karsilasma": "Buz Adamlar GSK - Kocaeli Akincilar",
+   "kanal": "Buz Hokeyi TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
+  },
+  {
+   "tarih": "2026-11-22",
+   "gun": "Pazar",
+   "saat": "20:00",
    "spor": "Futbol",
    "lig": "İtalya Serie A",
    "karsilasma": "Milan - Frosinone",
@@ -3081,6 +3132,19 @@
     "İnternet"
    ],
    "sifresiz": false
+  },
+  {
+   "tarih": "2026-11-22",
+   "gun": "Pazar",
+   "saat": "21:30",
+   "spor": "Futbol",
+   "lig": "Almanya Bundesliga 3",
+   "karsilasma": "Duisburg - Hansa Rostock",
+   "kanal": "Sıfır TV",
+   "platform": [
+    "İnternet"
+   ],
+   "sifresiz": true
   },
   {
    "tarih": "2026-11-22",
